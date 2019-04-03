@@ -76,7 +76,7 @@ Some of the delegates who were **not** at the Constitutional Convention (and the
 
 Most of the delegates had former government experiene and were fairly "well-off" and not the typical American citizen.
 
-# Midterm Essay Question
+## Midterm Essay Question
 
 > [!DANGER]
 > As discussed in the leture and in the textbook, what were all the problems with the Articles of Confederation? How would the Constitution address these problems?

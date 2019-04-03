@@ -66,7 +66,7 @@ Rule by an identifiable groups of people who possess a disproportionate share of
 
 In US. White, Protestant, ivy league college educated, upper class males - WASPM
 
-### Midterm Question 
+## Midterm Question 
 > [!DANGER]
 > What is an elite? Discuss the four theories of elitism. In your opinion, which one is applicable to the US?
 
