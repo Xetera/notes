@@ -101,6 +101,8 @@ When the elites fear that their position is in jeopardy they may **over-react an
 - Patriot Act - Greatly restricting a suspect's Constitutional rights. For example, you can be detained indefinitely without access to a lawyer or even informed of your charges. The government can bug your phone, read your e-mail and computer activity, etc...
     
 ## Midterm Essay Question
+<br>
+
 > [!DANGER]
 > What are all the characterstics of American Political Culture as discussed in the lecture and in the textbook? Compare these characteristics with the characteristics of another nation discussed in the American Political Culture.
 
