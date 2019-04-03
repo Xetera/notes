@@ -1,43 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Ali's Notes</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <link rel="icon" href="icon.png">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport"
-        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 </head>
+
 <body>
-<div id="app"></div>
-<script>
-  window.$docsify = {
-    name: 'docsify',
-    repo: '',
-    search: [
-      "/american_gov"
-    ],
-    themeColor: "#3F51B5",
-    'flexible-alerts': {
-      style: "flat",
-      danger: {
-        label: "Important",
-        icon: "fas fa-star"
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'docsify',
+      repo: '',
+      search: [
+        "/american_gov"
+      ],
+      themeColor: "#c16632",
+      'flexible-alerts': {
+        style: "flat",
+        danger: {
+          label: "Important",
+          icon: "fas fa-star"
+        }
+      },
+      name: "Ali's Notes!",
+      loadSidebar: true,
+      subMaxLevel: 8,
+      auto2top: true,
+      alias: {
+        // '/.*/_sidebar.md': '/_sidebar.md'
       }
-    },
-    name: "Ali's Notes!",
-    loadSidebar: true,
-    subMaxLevel: 8,
-    auto2top: true,
-    alias: {
-      // '/.*/_sidebar.md': '/_sidebar.md'
-    }
-  };
-</script>
-<script src="https://unpkg.com/docsify/lib/plugins/search.min.js"></script>
-<script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
-<script src="https://unpkg.com/docsify/lib/docsify.min.js"></script>
-<script src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+    };
+  </script>
+  <script src="https://unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <script src="https://unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 </body>
+
 </html>
