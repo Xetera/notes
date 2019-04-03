@@ -1,5 +1,7 @@
 # Chapter 1 - [chapter name here]
 
+<br>
+
 > [!NOTE]
 > I didn't decide I'd take notes until halfway through the first class
 > so some stuff might be missing from chapter 1.

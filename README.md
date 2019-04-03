@@ -6,6 +6,8 @@ motivated to keep coming to class regularly.
 
 Good luck with the studying!
 
-![](https://i.imgur.com/AoMPIyV.gif?noredirect)
+![gottaworkhard](https://i.imgur.com/AoMPIyV.gif?noredirect)
 
 [Jump to notes](american_gov/)
+
+##### Made with ❤ and [docsify](https://github.com/docsifyjs/docsify) {docsify-ignore}
