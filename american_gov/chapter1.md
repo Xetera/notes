@@ -1,5 +1,7 @@
 # Chapter 1 - [chapter name here]
 
+<br>
+
 > [!NOTE]
 > I didn't decide I'd take notes until halfway through the first class
 > so some stuff might be missing from chapter 1.
@@ -12,18 +14,18 @@
 - Long terms in office may mean that they lose touch with their constituents.
 - It is generally agreed among people in America, that the govt. rules on behalf of the masses.
 
-## Aristotle's view of Democracy - Direct Democracy
+### Aristotle's view of Democracy - Direct Democracy
 
 Democracy exists when everyone participates in the decision making - no law is made unless everyone agrees on it. People vote on every single decision, called direct democracy since everything is voted upon directly by the people.
 
 Direct democracy - this could become a reality in the U.S. now if we have an electronic direct democracy - everyone vote electronically
 
-##### Problems: 
+### Problems: 
 - Us has a population of 320 million, hard to vote on every single law
 - Direct democracy: Impractical in a country as large as the US
 - People make unwise decisions, better to elect a person who has knowledge of the subject who can rule on our behalf
 
-##### This type of democracy works best in the following types of situations:
+### This type of democracy works best in the following types of situations:
 - 5th century B.C. Greek city states
 - New England town meeting
 - Community control in a self-governing neighborhood
@@ -35,19 +37,18 @@ Switzerland comes the closest to this form of democracy with its national refere
 ## Democratic Centralism
 View of democracy that is not most often supported in communist countries - former Soviet Union, Vietnam, Cuba, North Korea
 
-##### Characteristics:
+### Characteristics:
 - Everyone has equal input to the decision making process, equal chance to influence decision making process.
 - Party leader makes up their mind, and their decision reigns supreme.
 
 In theory, this is democratic in that the people have a chance to influence leaders in their decisions.
 
-##### Problems:
+### Problems:
 - People in these countries are afraid to express their true opinion for fear of imprisonment and being labeled as a dissident.
 - Government claims it is ruling on behalf of the people, but in reality it is just rules the way it wants to.
 - Govt. that rule through force, they don't have the true interests of the people at heart when they make their decision. They are not democratic in the way that Marx (the creator of democratic centralism) envisioned.
 
 ### How is power distributed in a democracy?
-
 - Majoritarian Politics (parliamentary systems)
   - Leaders constrained to follow the wishes of the party in majority very closely. Not true for the US. but is true in Britain.
   - In majoritarian politics the leader is bound to follow the wishes of the party in majority. He is not allowed to rule the way he wants to, he can only rule the way the party want him to.
@@ -56,7 +57,6 @@ In theory, this is democratic in that the people have a chance to influence lead
   - Legislature is semi-independent from the President and vice versa. They are each elected separately.
 
 ## Elitism
-
 Under elitist theory, the leader is tied to the will of the people. 
 but he may not have the same socio/economic, ethnic or gender as the majority of the people. He does not have to represent their wishes, he is not bound to represent their wishes.
 
@@ -68,15 +68,18 @@ In US. White, Protestant, ivy league college educated, upper class males - WASPM
 > [!DANGER]
 > What is an elite? Discuss the four theories of elitism. In your opinion, which one is applicable to the US?
 
-##### Theories of Elitism
-- Marxist:
-  - Elites are those people who control the means to production in an economy. Those who have the most economic power; Bill gates, Steve Jobs, etc...
-- C Wright Mills:
-  - Power elite is composed of corporate leaders, generals, and politicians.
-- Max Weber: (read way burr (he's german (apparently...)))
-  - Elites are the bureaucrats - people who got their job through expertise and specialized competence.
-- Pluralist view:
-  - No single elite has a monopoly on power, hence must bargain and compromise - this view seems to be the most plausible
+### Theories of Elitism
+#### Marxist:
+Elites are those people who control the means to production in an economy. Those who have the most economic power; Bill gates, Steve Jobs, etc...
+
+#### C Wright Mills
+Power elite is composed of corporate leaders, generals, and politicians.
+
+#### Max Weber
+Elites are the bureaucrats - people who got their job through expertise and specialized competence.
+
+#### Pluralist view
+No single elite has a monopoly on power, hence must bargain and compromise - this view seems to be the most plausible
   
 ### Why elite rule is preferable to mass democracy
 1. Direct democracy could lead to mass rule, _tyranny of the majority_
@@ -88,18 +91,20 @@ The 'irony of democracy' is that the elites must govern wisely if government 'by
 
 
 ### Problems with Elite Rule
-Repression
-- When the elites fear that their position is in jeopardy they may **over-react and be overly repressive**. This usualy happens in times when there is massive upheaval.
-- **Past examples of elite repression**
-  - WWII Japanese in America eve nthough they were American citizens were rounded up and put in detention camps.
-  - 1950's senator McCarthy launched a "Red scare" and anyone who was suspected of being a communist lost their jobs, had their phones tapped, had their mail read, etc.
-  - Patriot Act - Greatly restricting a suspect's Constitutional rights. For example, you can be detained indefinitely without access to a lawyer or even informed of your charges. The government can bug your phone, read your e-mail and computer activity, etc...
+When the elites fear that their position is in jeopardy they may **over-react and be overly repressive**. This usualy happens in times when there is massive upheaval.
+
+#### Past examples of elite repression
+- WWII Japanese in America eve nthough they were American citizens were rounded up and put in detention camps.
+- 1950's senator McCarthy launched a "Red scare" and anyone who was suspected of being a communist lost their jobs, had their phones tapped, had their mail read, etc.
+- Patriot Act - Greatly restricting a suspect's Constitutional rights. For example, you can be detained indefinitely without access to a lawyer or even informed of your charges. The government can bug your phone, read your e-mail and computer activity, etc...
     
 ## Midterm Essay Question
+
 > [!DANGER]
 > What are all the characterstics of American Political Culture as discussed in the lecture and in the textbook? Compare these characteristics with the characteristics of another nation discussed in the American Political Culture.
 
-### Political Culture Definition
+## Political Culture 
+### Definition
 Distinctive and patterened way of thinking about how political and economic life ought to be carried out.
 
 Political scientists determine a nation's political culture through conducting polls, inference from books, speeches, etc.
@@ -116,11 +121,9 @@ Being taught how to behave in a social environment
 ### Dominant Beliefs in American Political Culture
 One of the main reason why the US. is able to allow such a large immigration of people, have so many religions, and races without huge social conglice is because every American shares in the same basic American ideology and culture. They all share the same belief in upholding the American Creed.
 
-
 ## The six basic beliefs that make up American Creed:
 
 ### Liberty
-
 The belief in liberty is the belief that everyone should be free to do what they want as long as they don't harm other people. Freedom of speech, freedom of the press. However studies have shown that although almost all American believe in the liberties should be enjoyed by all when you allow people to have the liberty to engage in activity that they don't like, then people want to take away this liberty.
 
 Example: freedom of speech O.K. except when it comes to letting the KKK have freedom of speech. ACLU's goal is to ensure that everyone has a right to enjoy their freedoms.
@@ -205,7 +208,7 @@ America is a highly urban society with 76% of the population living in cities wi
 
 American white population is growing older. Whites seem to have 
 
-## Economy
+### Economy
 - Largest economy in the world (GNP about $17 trillion)
 - World's largest importer of goods
 - 2nd largest exporter of goods (Germany #1)
@@ -215,14 +218,14 @@ American white population is growing older. Whites seem to have
 - Largest foreign debt in the world.
 - Largest national debt $18 trillion
 
-## Social Structure
+### Social Structure
 - Class structure is basically middle class. Most Americans are middle class and hold white collar jobs.
 - America does have its share of very wealthy and very poor and it seems that members of the very poor class is increasing due to the economic recession. Working class or lower middle class people are losing their jobs and have to move out onto the streets.
 - Poverty is not equally distributed - it seems to be more prevalent among blacks, hispanics, females with children, people living in the South and/or rural or inner city areas, and the elderly.
 - 12% of the US population lives below the poverty line.
 - America is not as class conscious as other societies and we are not as race conscious either. There has never been a significant and prolonged social disturbance on behalf of races or classes. Also there are no political parties associated with a specific class or race. This is not the case with other nations.
 
-### England's class consciousness problems
+## England's class consciousness problems
 - Reasons why class and to a lesser extent race is not as important in America as in other countries - because of the belief in social mobility - through hard work and effort you can be anything - we have no aristocracy, or landed privileged class.
 - America is more religious than many other industrialized countries but this religion does not divide the nation. Until recently there were no political parties associated with a specific religion. Now the Republican party has become associated with Evangelical Christians
   - 52% Protestant
