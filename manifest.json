@@ -1,0 +1,17 @@
+{
+  "short_name": "Notes",
+  "name": "Ali's Notes",
+  "start_url": "/#/american_gov",
+  "background_color": "#3F51B5",
+  "theme_color": "#3F51B5",
+  "display": "#standalone",
+  "icons": [{
+    "src": "/icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }, {
+    "src": "/icon.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }]
+}
