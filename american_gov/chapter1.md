@@ -14,18 +14,18 @@
 - Long terms in office may mean that they lose touch with their constituents.
 - It is generally agreed among people in America, that the govt. rules on behalf of the masses.
 
-## Aristotle's view of Democracy - Direct Democracy
+### Aristotle's view of Democracy - Direct Democracy
 
 Democracy exists when everyone participates in the decision making - no law is made unless everyone agrees on it. People vote on every single decision, called direct democracy since everything is voted upon directly by the people.
 
 Direct democracy - this could become a reality in the U.S. now if we have an electronic direct democracy - everyone vote electronically
 
-##### Problems: 
+### Problems: 
 - Us has a population of 320 million, hard to vote on every single law
 - Direct democracy: Impractical in a country as large as the US
 - People make unwise decisions, better to elect a person who has knowledge of the subject who can rule on our behalf
 
-##### This type of democracy works best in the following types of situations:
+### This type of democracy works best in the following types of situations:
 - 5th century B.C. Greek city states
 - New England town meeting
 - Community control in a self-governing neighborhood
@@ -37,19 +37,18 @@ Switzerland comes the closest to this form of democracy with its national refere
 ## Democratic Centralism
 View of democracy that is not most often supported in communist countries - former Soviet Union, Vietnam, Cuba, North Korea
 
-##### Characteristics:
+### Characteristics:
 - Everyone has equal input to the decision making process, equal chance to influence decision making process.
 - Party leader makes up their mind, and their decision reigns supreme.
 
 In theory, this is democratic in that the people have a chance to influence leaders in their decisions.
 
-##### Problems:
+### Problems:
 - People in these countries are afraid to express their true opinion for fear of imprisonment and being labeled as a dissident.
 - Government claims it is ruling on behalf of the people, but in reality it is just rules the way it wants to.
 - Govt. that rule through force, they don't have the true interests of the people at heart when they make their decision. They are not democratic in the way that Marx (the creator of democratic centralism) envisioned.
 
 ### How is power distributed in a democracy?
-
 - Majoritarian Politics (parliamentary systems)
   - Leaders constrained to follow the wishes of the party in majority very closely. Not true for the US. but is true in Britain.
   - In majoritarian politics the leader is bound to follow the wishes of the party in majority. He is not allowed to rule the way he wants to, he can only rule the way the party want him to.
@@ -58,7 +57,6 @@ In theory, this is democratic in that the people have a chance to influence lead
   - Legislature is semi-independent from the President and vice versa. They are each elected separately.
 
 ## Elitism
-
 Under elitist theory, the leader is tied to the will of the people. 
 but he may not have the same socio/economic, ethnic or gender as the majority of the people. He does not have to represent their wishes, he is not bound to represent their wishes.
 
@@ -101,7 +99,6 @@ When the elites fear that their position is in jeopardy they may **over-react an
 - Patriot Act - Greatly restricting a suspect's Constitutional rights. For example, you can be detained indefinitely without access to a lawyer or even informed of your charges. The government can bug your phone, read your e-mail and computer activity, etc...
     
 ## Midterm Essay Question
-<br>
 
 > [!DANGER]
 > What are all the characterstics of American Political Culture as discussed in the lecture and in the textbook? Compare these characteristics with the characteristics of another nation discussed in the American Political Culture.
