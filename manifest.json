@@ -4,7 +4,7 @@
   "start_url": "/#/american_gov",
   "background_color": "#3F51B5",
   "theme_color": "#3F51B5",
-  "display": "#standalone",
+  "display": "standalone",
   "icons": [{
     "src": "/icon.png",
     "type": "image/png",
