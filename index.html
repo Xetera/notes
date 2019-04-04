@@ -12,6 +12,9 @@
 <body>
 <div id="app"></div>
 <script>
+  if (navigator.serviceWorker !== undefined) {
+    navigator.serviceWorker.register("sw.js");
+  }
   window.$docsify = {
     name: 'docsify',
     repo: '',
