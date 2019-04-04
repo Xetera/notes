@@ -1,7 +1,7 @@
 {
   "short_name": "Notes",
   "name": "Ali's Notes",
-  "start_url": "/#/american_gov",
+  "start_url": "/#/american_gov/",
   "background_color": "#3F51B5",
   "theme_color": "#3F51B5",
   "display": "standalone",
