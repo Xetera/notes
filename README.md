@@ -9,5 +9,8 @@ Good luck with the studying!
 ![gottaworkhard](https://i.imgur.com/AoMPIyV.gif?noredirect)
 
 [Jump to notes](american_gov/)
+<p onclick="trigger.prompt()" style="text-decoration: underline; cursor: pointer;">
+  Add me to your homepage!
+</p>
 
 ##### Made with ❤ and [docsify](https://github.com/docsifyjs/docsify) {docsify-ignore}

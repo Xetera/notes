@@ -19,11 +19,11 @@
 <noscript>Javascript must be enabled for this site!</noscript>
 <div id="app"></div>
 <script>
-  if (navigator.serviceWorker !== undefined) {
+  let trigger;
+  if (navigator.serviceWorker) {
     navigator.serviceWorker.register("sw.js");
     window.addEventListener("beforeinstallprompt", e => {
-      e.preventDefault();
-      e.prompt();
+      trigger = e;
     })
   }
   window.$docsify = {
@@ -47,10 +47,10 @@
     }
   };
 </script>
-<script async src="vendor/docsify.js"></script>
-<script async src="vendor/plugins/search.min.js"></script>
-<script async src="vendor/plugins/flexible-alerts.min.js"></script>
-<script async src="vendor/plugins/pagination.min.js"></script>
+<script src="vendor/docsify.js"></script>
+<script src="vendor/plugins/search.min.js"></script>
+<script src="vendor/plugins/flexible-alerts.min.js"></script>
+<script src="vendor/plugins/pagination.min.js"></script>
 <link rel="stylesheet" href="vendor/themes/docsify-themable.css">
 </body>
 
