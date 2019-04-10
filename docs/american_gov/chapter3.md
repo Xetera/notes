@@ -1,6 +1,8 @@
 # Chapter 3 - Federalism
 ---
 
+# Types of Government
+
 | Government Type | Central Control | State Control |
 | -               | -               | -             |
 | Confederation   | 40%             | 60%           |
@@ -63,7 +65,7 @@ Federalism is best suited for the US because:
 
 <br>
 
-> [!DANGER]
+> [!DANGER|style:flat]
 > As discussed primarily in lecture, but also a bit in the textbook, what are the advantages and disadvantages of Federalism?
 
 ### Pros and Cons
@@ -104,7 +106,7 @@ Thus states compete much with one another to get scarce govt. funds. Generally t
 
 <br>
 
-> [!DANGER]
+> [!DANGER|style:flat]
 > Discuss the different types of govt. grant programs. What are the advantages and disadvantages of each?
 
 ### Types of Federal Grants

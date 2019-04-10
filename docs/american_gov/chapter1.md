@@ -65,7 +65,7 @@ Rule by an identifiable groups of people who possess a disproportionate share of
 In US. White, Protestant, ivy league college educated, upper class males - WASPM
 
 ## Midterm Question 
-> [!DANGER]
+> [!DANGER|style:flat]
 > What is an elite? Discuss the four theories of elitism. In your opinion, which one is applicable to the US?
 
 ### Theories of Elitism
@@ -100,7 +100,7 @@ When the elites fear that their position is in jeopardy they may **over-react an
     
 ## Midterm Essay Question
 
-> [!DANGER]
+> [!DANGER|style:flat]
 > What are all the characterstics of American Political Culture as discussed in the lecture and in the textbook? Compare these characteristics with the characteristics of another nation discussed in the American Political Culture.
 
 ## Political Culture 

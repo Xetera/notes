@@ -2,8 +2,8 @@
 
 <br>
 
-> [!DANGER|label:READ THIS]
-> This chapter is **NOT** on the midterm, just the final.
+> [!DANGER|label:READ THIS|style:flat]
+> This chapter (Congress) is **NOT** on the midterm, just the final.
 
 ## Opening Remarks 
 
