@@ -1,4 +1,4 @@
-# Chapter 1 - [chapter name here]
+# Chapter 1 - Democracy
 
 <br>
 

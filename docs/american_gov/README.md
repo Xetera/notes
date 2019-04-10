@@ -17,6 +17,7 @@ Click on the links on the side to get started
   * [Problems with Articles of Confederation](american_gov/chapter2?id=midterm-essay-question)
 * Chapter 3
   * [Advantages of Federalism](/american_gov/chapter3?id=midterm-question)
+  * [Different Government Grants](/american_gov/chapter3?id=midterm-question-1)
 
 ### Helpful Links
 * [Link to Textbook](https://drive.google.com/open?id=1Yhw1qaFDaAW8u4kMeWqtG5rluSPYjJQg)
