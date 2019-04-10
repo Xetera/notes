@@ -2,3 +2,4 @@
 * [American Government](american_gov/)
 * [Chapter 1](american_gov/chapter1.md)
 * [Chapter 2](american_gov/chapter2.md)
+* [Chapter 3](american_gov/chapter3.md)
