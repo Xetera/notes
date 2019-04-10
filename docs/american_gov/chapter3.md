@@ -26,7 +26,7 @@ Power is divided between central govt. and loal states. States have autonomy to 
 
 ### 6 Requirements
 
-1. **Legal powers:**  Regional govt.s must have power to them to form their own political structure.
+1. **Legal powers:**  Regional govts. must have power to them to form their own political structure.
   * California has a state Assembly, and a state senate
   * There are term limites for each senate assemblymen and each state senator.
   * A governor and deputy governor who is independently elected.
@@ -43,19 +43,19 @@ Power is divided between central govt. and loal states. States have autonomy to 
   * Intergovt.al lobbying - Gov newsome lobbies Washington for favorable things.
   * Tax money can be spent in any way they want.
   * USSR was a federation, not a democracy
-6. (uhh I'm missing this one for some reason, dm me with your notes pls thanks)
+6. **Ower over local units:** Regional govt. can have power over local govt. in their borders, havep ower over local finances & and money will be spent.
 
 ### Other Facts
 * Elastic Clause leads to the implied powers of the govt.
 * Powers granted to both the states and the nation are called concurrent powers.
-(Again, missing some notes here, hmu fams)
+
 
 ### Why Federalism
 Federalism is best suited for the US because:
 
 * It is a huge nation, very difficult for a centralized govt to rule efficiently.
 * It is a very diverse nation, the most diverse in the world. Federalism allows this diversity to continue, people can identify with their specific enthicity and still identify as American. They don't feel that the central govt. is trying to eradicate their ethnicity.
-* The US was the first country in the world to establish a federal form of govrt. **Motivations for establishing federalism rather than a unity govt. were:**
+* The US was the first country in the world to establish a federal form of govt. **Motivations for establishing federalism rather than a unity govt. were:**
   * Would prevent the central govt. from becoming all powerful, thus would protect the rights of of man.
   * Would appeal more to those elites who feared the stronger centralized govt. as established in the Constutiton would violate the rights of man. **Thomas Jefferson** and **Patrick Henry** in particular wanted guaranteed powers for the states.
 
@@ -78,7 +78,7 @@ Federalism is best suited for the US because:
 2. Diversity of state laws and procedures creates an unfair situation for citizens from a national perspective.
   * For example, the average felony of conviction leads up to 13 months of jail time in S. Dakota as opposed to 58 months in Massachusetts. Makes it an advantage to commit a crime in a certain state.
   * Car, law, real estate, teaching, etc.. licenses aren't transferrable between states. Each state has unique requirements that must be met in order to get a license to drive or practice an occupation.
-3. Giving more powers to the states may be an unwise decision, because there is ample proof that states run their respective govt.s no more efficiently than federal bureaucrats run the national govt. in Washington.
+3. Giving more powers to the states may be an unwise decision, because there is ample proof that states run their respective govts. no more efficiently than federal bureaucrats run the national govt. in Washington.
 4. Federalism can result in unequal opportunities, because the wealthier states can provice better schools, medical care, and other services far more effectively than the poorer states.
 5. The fragmentation of authority under federalism can permit unscrupulous interest groups who are concentrated in specific states to acquire undue influence and political power in the states.
 
@@ -117,7 +117,7 @@ Categorical grants and graints-in-aid money that can only be used for one specif
 4. These types of grants are sbject to regular view by the federal govt..
 
 #### Block Grants 
-Provide state and local govt.s with money for broadly defined purposes.
+Provide state and local govts. with money for broadly defined purposes.
 
 #### Revenue Sharing
 Federal funds turned back to the state and local govt. with no strings attached. Money granted according formulas taking into account the state's population and local tax bases. States that usually get this money are populous, poor states with arge minority.
@@ -125,11 +125,18 @@ Federal funds turned back to the state and local govt. with no strings attached.
 #### Project Grants
 Money for specific projects, example urban renewal grants for specific slum clearance projects - Lyndon Johnson lunched a lot of sponsored projects during his administration. These aren't done anymore.
 
+### What do States Give In Return
+* Compliance with and implementation of federal programs.
+* States get money to help reelect their politicans.
+* States lose some autonomy.
+* States ecme reliant on Washington for money
 
----
-### Missing notes from here
----
+### What does the Federal Govt. Sacrifice
+Federal govt sees its policies become 50 different ones because of state variation.
 
+### Histoy of US Federalism
+* The US has a constitutionally mandated federal system because the Founders ahd no choice. That states were not going to relinquish all of their power to a national govt.
+* Many people known as the Anti-Federalists (Thomas Jefferson) would not support govt. unless the states were allowed independent powers.
 3. At first it was not quite clear right where the line was drawn.
 4. It was not until the Civil War that the whole issue of the supremacy of the national govt. was settled.
 5. Govt. power generally increased over the years with the states taking over the responsibility for paying for more and more of the states local programs.
