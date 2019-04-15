@@ -59,7 +59,7 @@ Each senator is more powerful than a representative.
 ### Essay Question #4
 
 > [!DANGER]
-> Differences between house and senate(?)
+> What are the between house and senate?
 > 
 
 ### House
@@ -102,7 +102,7 @@ The organization votes through the agreement of an organization. Ex: Republicans
 #### Differences
 * US Congress get paid more than most parliamentary members
 * US Congressmen wield more individual power than most.
-* US Congressmen do not have to be loyal ot their party.
-* US Congress get paid more than most parliamentary members
-* US Congress get paid more than most parliamentary members
-* US Congress get paid more than most parliamentary members
+* US Congressmen do not have to be loyal to their party.
+
+#### Characteristics of Congress
+1. Congressional session - every ywo years there is a new session. We are now in the 115th, 2nd session of Congress.
