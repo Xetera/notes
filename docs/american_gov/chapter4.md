@@ -170,10 +170,13 @@ Is extremely powerful and partisan, gets to decide:
 > [!DANGER]
 > You have to have this memorized as well!
 
-| Position | In Power |
-| - | - |
+##### This is not complete yet {docsify-ignore}
+
+| Position                 |                                       In Power |
+| -                        |                                              - |
 | **Speaker of the House** | <span style="color: blue">Nancy Pelosy</span> 
-| **Majority Leader** | Kevin McCarthy | 
+| **Majority Leader**      | <span style="color: blue">Kevin McCarthy</span> 
+
 
 Reasons why the speaker of the house the most powerful position in the congress
 * In Charge of more people
@@ -203,7 +206,48 @@ Chairmen of the other committees - Democrat
 ![Passing a Law](https://www.lexisnexis.com/help/CU/The_Legislative_Process/bill2law.gif)
 
 #### Points of death
-* Speaker of the house can kill the bill so that it never goes to the committee.
-* Committee Chairman can immediately kill the bill.
-* Subcommittee Chairman can immediately kill the bill.
+* Speaker of the House
+* Committee Chairman (most common point of death)
+* Subcommittee Chairman (most common point of death)
+* Rules Committee
+* Majority Leader
+
+Most bills die in Congress and never become law.
+
+#### Influences of Committees
+* If the committee likes the bill they can markup the bill (making it presentable as a legal document).
+* Subcommittee can vote to recommend or not recommend the bill, if it's not recommended, it doesn't pass.
+
+> **Quorum** -definition
+> 
+> The minimum number of members of an assembly that must be present at any of its meetings to make the proceedings of that meeting valid.
+
+218 house members must be present for the vote to take place.
+51 senators are needed for there to be a vote on the bill.
+
+If congress is not in session in 10 days and the bill hasn't been signed, it's a pocket veto.
+
+### Ways to Influence the Bill
+* Write the bill (must be sponsored by a Congressman)
+* Ask to testify at a committee hearing
+* Ask Congressman (letter, e-mail, phone, text) to vote in favor or against a bill
  
+### Comments
+* Anyone can write a bill but only a congressman can introduce a bill to Congress
+* Speaker of the House assigns bill to a committee in the House, President Pro Tempore assigns the bill to a committee in the Senate.
+* A bill is not passed in the Congressional session is dead for the rest of the session and cannot be re-introduced.
+* A bill can be assigned to several committees.
+* Discharge petition or dischrage motion used in the House and Senate to force reporting of a bill to the floor.
+* Must have a quorum to vote on a bill (**Senate** 51, **House** 218)
+* A bill must pass through both houses in exactly the same form.
+* All money bills must originate in the House.
+
+### President's Power over Bills
+* Sign the bill, it is now law.
+* Leave it on his desk and if after 10 days Congress is still in session, it is law.
+* Veto the bill - it is not law unless Congress can over-ride the veto with 2/3rds in each house.
+* Do nothing and if Congress adjourns before the 10 days are up, it is a pocket veto.
+
+> [!COMMENT]
+> It's fairly common to make quorum... unless there are extraordinary circumstances.
+
