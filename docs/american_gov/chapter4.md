@@ -136,14 +136,14 @@ The Policy committee of each party - gives senators their assignments.
 > [!DANGER]
 > You have to have this memorized!
 
-| Position | In Power |
-| - | - | 
-| **President of The Senate** | <span style="color: red">Vice President</span>
-| **President Pro Tempore** |  <span style="color: red">Orin Hatch</span>
-| **Majority Leader** |   <span style="color: red">Mitch McConnell</span> 
-| **Minority Leader** | <span style="color: blue"> Chuck Schumer</span> 
-| **Majority Whip** |  <span style="color: blue">Jon Cornyn</span> 
-| **Minoriy Whip** |  <span style="color: blue">Richard Durbin |</span> 
+| Position                    | In Power                                          |
+| -                           |                                                 - | 
+| **President of The Senate** | <span style="color: red">Mike Pence</span>
+| **President Pro Tempore**   | <span style="color: red">Orin Hatch</span>
+| **Majority Leader**         | <span style="color: red">Mitch McConnell</span> 
+| **Minority Leader**         | <span style="color: blue"> Chuck Schumer</span> 
+| **Majority Whip**           | <span style="color: blue">Jon Cornyn</span> 
+| **Minoriy Whip**            | <span style="color: blue">Richard Durbin |</span> 
 
 
 ### House of Representatives
@@ -165,6 +165,8 @@ Is extremely powerful and partisan, gets to decide:
 
 ### House Organization
 
+<br>
+
 > [!DANGER]
 > You have to have this memorized as well!
 
@@ -185,4 +187,23 @@ Chairmen of the other committees - Democrat
 
 **Three functions of committees:**
 1. Consider bills or legislative proposals
+  * They have the power to kill bills as needed
+2. Maintain oversight of executive
+3. Conduct investigations
 
+### How  Bill Becomes Law
+
+#### Essay Question
+
+<br>
+
+> [!DANGER]
+> Discuss how a bill becomes law, discuss the points of death and discuss how the public influences the bill.
+
+![Passing a Law](https://www.lexisnexis.com/help/CU/The_Legislative_Process/bill2law.gif)
+
+#### Points of death
+* Speaker of the house can kill the bill so that it never goes to the committee.
+* Committee Chairman can immediately kill the bill.
+* Subcommittee Chairman can immediately kill the bill.
+ 
