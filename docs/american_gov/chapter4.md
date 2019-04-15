@@ -2,7 +2,7 @@
 
 <br>
 
-> [!DANGER|label:READ THIS|style:flat]
+> [!DANGER|label:READ THIS]
 > This chapter (Congress) is **NOT** on the midterm, just the final.
 
 ## Opening Remarks 
@@ -56,5 +56,53 @@ Each senator is more powerful than a representative.
 
 ## Types of Voting in Congress
 
+### Essay Question #4
 
+> [!DANGER]
+> Differences between house and senate(?)
+> 
 
+### House
+
+> [!WARNING|label:NOT ON THE EXAM]
+> #### Types of votes
+> 
+> ##### Division Vote
+> - Recorded
+> People stand up to 
+> 
+> ##### Voice
+> - not recorded, anonymous
+> most common, if there is doubt who won, then a more specific type of vote can take place if a member requests it.
+> ##### Teller
+> - recorded, anonymous
+> 
+> Voting through a machine that tallies the people in favor and against the bill
+> 
+> ##### Roll-Call
+> - recorded, anonymous
+> Must personally identify the way in which congressman vote.
+
+### How Congressmen Vote
+* Are they from a safe or unsafe district?
+
+#### Trustree Representative
+Trustee representatives vote what he feels is the best for the district.
+
+#### Delegate representatives 
+Delegate representatives is how congressman from unsafe districts vote. The congressman votes exactly the way the conkstitutents want. Even if they disagree with the choice of the constituents.
+
+#### Organizational View
+The organization votes through the agreement of an organization. Ex: Republicans voting against every bill Obama wants to pass.
+
+> [!NOTE]
+> The organizational view currently no longer seems to be working because the republicans do not want to work with Trump.
+
+### US Congress vs Parliment
+#### Differences
+* US Congress get paid more than most parliamentary members
+* US Congressmen wield more individual power than most.
+* US Congressmen do not have to be loyal ot their party.
+* US Congress get paid more than most parliamentary members
+* US Congress get paid more than most parliamentary members
+* US Congress get paid more than most parliamentary members
