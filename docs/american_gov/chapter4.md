@@ -62,25 +62,27 @@ Each senator is more powerful than a representative.
 > What are the between house and senate?
 > 
 
-### House
+## House
 
 > [!WARNING|label:NOT ON THE EXAM]
-> #### Types of votes
-> 
-> ##### Division Vote
+> ### Types of votes
+> #### Division Vote
 > - Recorded
 > People stand up to 
 > 
-> ##### Voice
+> #### Voice
 > - not recorded, anonymous
+>
 > most common, if there is doubt who won, then a more specific type of vote can take place if a member requests it.
-> ##### Teller
+>
+> #### Teller
 > - recorded, anonymous
 > 
 > Voting through a machine that tallies the people in favor and against the bill
 > 
-> ##### Roll-Call
+> #### Roll-Call
 > - recorded, anonymous
+>
 > Must personally identify the way in which congressman vote.
 
 ### How Congressmen Vote
@@ -106,3 +108,81 @@ The organization votes through the agreement of an organization. Ex: Republicans
 
 #### Characteristics of Congress
 1. Congressional session - every ywo years there is a new session. We are now in the 115th, 2nd session of Congress.
+
+## Congress
+### General characteristics
+* Review term
+* Pay
+* Must be at least 30 years old
+* More prestige
+* Number of staff members
+* Longer residency requirements
+
+### No germaneness rule
+As long as someone is speaking on the floor, a vote cannot be taken.
+
+### Filibusters
+Filibusters can take place to prevent or delay a vote on a bill.
+* Longest filibuster was 74 days in 1964 on a civil rights bill - cloture was used for the first time to end the filibuster.
+* **Cloture** 16 senators must sfirst sign a petition asking for a vote to end the filibuster and then 3/5ths (60) of the entire Senate (all 100 senators) must vote to end it. If cloture is successful, then the filibuster cn only last for 100 more hours.
+
+### Policy Committee
+The Policy committee of each party - gives senators their assignments.
+
+### Senate Organization
+
+<br>
+
+> [!DANGER]
+> You have to have this memorized!
+
+| Position | In Power |
+| - | - | 
+| **President of The Senate** | <span style="color: red">Vice President</span>
+| **President Pro Tempore** |  <span style="color: red">Orin Hatch</span>
+| **Majority Leader** |   <span style="color: red">Mitch McConnell</span> 
+| **Minority Leader** | <span style="color: blue"> Chuck Schumer</span> 
+| **Majority Whip** |  <span style="color: blue">Jon Cornyn</span> 
+| **Minoriy Whip** |  <span style="color: blue">Richard Durbin |</span> 
+
+
+### House of Representatives
+#### General Characteristics
+* Review shorter term
+* Less prestige
+* Must be 25 years old
+* Shorter residency requirements
+* House of Representative is governed by more rules.
+
+#### Rules Committee
+Is extremely powerful and partisan, gets to decide:
+* Legth of the debate (No filibusters in the house)
+* Whether bill will get to the floor or be killed
+* Type of amendments
+  * Open Rule
+  * Closed Rule
+  * Restrictive Rule
+
+### House Organization
+
+> [!DANGER]
+> You have to have this memorized as well!
+
+| Position | In Power |
+| - | - |
+| **Speaker of the House** | <span style="color: blue">Nancy Pelosy</span> 
+| **Majority Leader** | Kevin McCarthy | 
+
+Reasons why the speaker of the house the most powerful position in the congress
+* In Charge of more people
+* She recognizes speakers - decides who may speak on the floor.
+* Decides on committee juristiction
+* Decides which committees bills go to.
+* Appoints members of special and select comittees
+
+Chairmen of the other committees - Democrat
+### Organization of Committes in Congress
+
+**Three functions of committees:**
+1. Consider bills or legislative proposals
+
