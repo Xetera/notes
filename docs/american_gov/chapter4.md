@@ -285,7 +285,43 @@ Committee and subcommittee chairmen will be members of the majority party.
 #### Different Types of Committees
 * **Standing committees** - permanent committees. The only committees that can research a bill.
 * **Ad hoc committees** - They're only there for a little while, after they've carried out their function they disolve..
-  * **Joint committees** - members of both the house and senate on it
-    * Conference committee
+  * **Joint committees** - members of both the house and senate on it.
+    * **Conference committee** - Members of both and senate work together get one version of a bill.
+  * **Select committees** - People on the select committee either come from the house or the senate for a specific purpose. (Eg: Trump administration)
 * Ethics committee for both house and senate.
 * Rules committee
+
+### Criticisms of Congress
+1. Congress is fragmented, unresponsive, and it takes a long time to pass a bill. More bills are killed than passed.
+Politicans are encouraged to encourage in actions like **logrolling** and **pork barreling**.
+
+> **Logrolling** -definition-
+>
+> Politicians doing favors for one another _I'll vote for your bill if you vote for mine_
+
+> **Pork Barrelling** -definition-
+>
+> Politicians putting amendments on bills that only help their own districts using the taxpayer money.
+
+2. Congress isn't maintaining legislative review of the executive branch. This became apparent during the vietnam war when the congress felt like it was difficult to control the president's actions.
+
+#### Attempted Solutions
+**Sunshine laws** were passed to expose everything the congress does publicly. All the information is available online etc... *this is the important one*
+
+**Secret ballot of committee chairmen** (I totally zoned out for this one sorry)
+
+**Subcommittees granted more power** to give them more of an incentive to investigate bills.
+
+**War Powers Act of 1973** 60 days after the US troops have been deployed anywhere in the world, the congress can call them back. *this has never been used*
+
+**Establishmend of a Congressional Budget Office for each house** to investigate the budget allocated by the president.
+
+
+### Discussion Questions
+Trace the route of a bill through congress name all the points wheere a bill could die.
+
+What are the different types of committes in Congress? What are the most powerful types of committees? How are committee assignments determined? What functions do committees perform?
+
+What are some of the criticisms of Congress? How has congress sought to improve itself?
+
+What are all of the differences between the House and the Senate? Discuss the leadership...
