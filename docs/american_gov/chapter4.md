@@ -135,16 +135,23 @@ The Policy committee of each party - gives senators their assignments.
 
 > [!DANGER]
 > You have to have this memorized!
+>
+> _Don't worry, this is the updated syllabus version_
 
 | Position                    | In Power                                          |
 | -                           |                                                 - | 
 | **President of The Senate** | <span style="color: red">Mike Pence</span>
 | **President Pro Tempore**   | <span style="color: red">Orin Hatch</span>
 | **Majority Leader**         | <span style="color: red">Mitch McConnell</span> 
-| **Minority Leader**         | <span style="color: blue"> Chuck Schumer</span> 
-| **Majority Whip**           | <span style="color: blue">Jon Cornyn</span> 
-| **Minoriy Whip**            | <span style="color: blue">Richard Durbin |</span> 
+| **Minority Leader**         | <span style="color: blue">Chuck Schumer</span> 
+| **Majority Whip**           | <span style="color: red">John Thune</span> 
+| **Minoriy Whip**            | <span style="color: blue">Richard Durbin</span> 
 
+**53** Republicans
+
+**45** Democrats
+
+**2** Independents
 
 ### House of Representatives
 #### General Characteristics
@@ -170,13 +177,19 @@ Is extremely powerful and partisan, gets to decide:
 > [!DANGER]
 > You have to have this memorized as well!
 
-##### This is not complete yet {docsify-ignore}
-
 | Position                 |                                       In Power |
 | -                        |                                              - |
-| **Speaker of the House** | <span style="color: blue">Nancy Pelosy</span> 
-| **Majority Leader**      | <span style="color: blue">Kevin McCarthy</span> 
+| **Speaker of the House** | <span style="color: blue">Nancy Pelosi</span> 
+| **Majority Leader**      | <span style="color: blue">Steny Hoyer</span> 
+| **Minory Leader**        | <span style="color: red">Kevin McCarthy</span> 
+| **Majority Whip**        | <span style="color: blue">James Clyurn</span> 
+| **Minory Whip**          | <span style="color: red">Steve Scalise</span> 
 
+**197** Republicans
+
+**235** Democrats
+
+**3** Vacancies
 
 Reasons why the speaker of the house the most powerful position in the congress
 * In Charge of more people
@@ -251,3 +264,28 @@ If congress is not in session in 10 days and the bill hasn't been signed, it's a
 > [!COMMENT]
 > It's fairly common to make quorum... unless there are extraordinary circumstances.
 
+### Facts about Committees
+House and Senate have similar committees because they both have to look at similar bills.
+
+The party that the majority in each house, also has the majority of members on each committee.
+
+Committee and subcommittee chairmen will be members of the majority party.
+
+#### Committee Assignments
+* Committee assignments are determined by the party committee of each house.
+  * Republicans assign republicals to committees and democrats assign democrats.
+* Committee assignments are based on the following:
+  * Congressman's seniority
+  * Congressman's constituency - where they're from
+
+
+> [!NOTE]
+> The rules committee is the most powerful committee.
+
+#### Different Types of Committees
+* **Standing committees** - permanent committees. The only committees that can research a bill.
+* **Ad hoc committees** - They're only there for a little while, after they've carried out their function they disolve..
+  * **Joint committees** - members of both the house and senate on it
+    * Conference committee
+* Ethics committee for both house and senate.
+* Rules committee
