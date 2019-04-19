@@ -41,7 +41,7 @@
 | **Min. Residency**       | 1 year      | 18 months     |
 | **Speaker of the House** | ✅          |  ❌           |
 
-Senate apprives of treatues and presidential appointments.
+Senate approves of treaties and presidential appointments.
 
 Each senator is more powerful than a representative.
 
@@ -59,7 +59,7 @@ Each senator is more powerful than a representative.
 ### Essay Question #4
 
 > [!DANGER]
-> What are the between house and senate?
+> What are the differences between house and senate?
 > 
 
 ## House
@@ -68,6 +68,7 @@ Each senator is more powerful than a representative.
 > ### Types of votes
 > #### Division Vote
 > - Recorded
+>
 > People stand up to 
 > 
 > #### Voice
@@ -89,10 +90,10 @@ Each senator is more powerful than a representative.
 * Are they from a safe or unsafe district?
 
 #### Trustree Representative
-Trustee representatives vote what he feels is the best for the district.
+Trustee representatives vote for what they feels is the best for the district.
 
 #### Delegate representatives 
-Delegate representatives is how congressman from unsafe districts vote. The congressman votes exactly the way the conkstitutents want. Even if they disagree with the choice of the constituents.
+Delegate representatives is how congressmen from unsafe districts vote. The congressman votes exactly the way the constitutents want. Even if they disagree with their choice.
 
 #### Organizational View
 The organization votes through the agreement of an organization. Ex: Republicans voting against every bill Obama wants to pass.
@@ -102,12 +103,12 @@ The organization votes through the agreement of an organization. Ex: Republicans
 
 ### US Congress vs Parliment
 #### Differences
-* US Congress get paid more than most parliamentary members
+* US Congress get paid more than most parliamentary members.
 * US Congressmen wield more individual power than most.
 * US Congressmen do not have to be loyal to their party.
 
 #### Characteristics of Congress
-1. Congressional session - every ywo years there is a new session. We are now in the 115th, 2nd session of Congress.
+1. Congressional session - every two years there is a new session. We are now in the 115th, 2nd session of Congress.
 
 ## Congress
 ### General characteristics
@@ -124,7 +125,7 @@ As long as someone is speaking on the floor, a vote cannot be taken.
 ### Filibusters
 Filibusters can take place to prevent or delay a vote on a bill.
 * Longest filibuster was 74 days in 1964 on a civil rights bill - cloture was used for the first time to end the filibuster.
-* **Cloture** 16 senators must sfirst sign a petition asking for a vote to end the filibuster and then 3/5ths (60) of the entire Senate (all 100 senators) must vote to end it. If cloture is successful, then the filibuster cn only last for 100 more hours.
+* **Cloture** 16 senators must first sign a petition asking for a vote to end the filibuster and then 3/5ths (60) of the entire Senate (all 100 senators) must vote to end it. If cloture is successful, then the filibuster can only last for 100 more hours.
 
 ### Policy Committee
 The Policy committee of each party - gives senators their assignments.
@@ -192,7 +193,7 @@ Is extremely powerful and partisan, gets to decide:
 **3** Vacancies
 
 Reasons why the speaker of the house the most powerful position in the congress
-* In Charge of more people
+* In charge of more people
 * She recognizes speakers - decides who may speak on the floor.
 * Decides on committee juristiction
 * Decides which committees bills go to.
@@ -246,11 +247,11 @@ If congress is not in session in 10 days and the bill hasn't been signed, it's a
 * Ask Congressman (letter, e-mail, phone, text) to vote in favor or against a bill
  
 ### Comments
-* Anyone can write a bill but only a congressman can introduce a bill to Congress
+* Anyone can write a bill but only a congressman can introduce a bill to Congress.
 * Speaker of the House assigns bill to a committee in the House, President Pro Tempore assigns the bill to a committee in the Senate.
-* A bill is not passed in the Congressional session is dead for the rest of the session and cannot be re-introduced.
+* A bill not passed in the Congressional session is dead for the rest of the session and cannot be re-introduced.
 * A bill can be assigned to several committees.
-* Discharge petition or dischrage motion used in the House and Senate to force reporting of a bill to the floor.
+* Discharge petition or discharge motion used in the House and Senate to force reporting of a bill to the floor.
 * Must have a quorum to vote on a bill (**Senate** 51, **House** 218)
 * A bill must pass through both houses in exactly the same form.
 * All money bills must originate in the House.
