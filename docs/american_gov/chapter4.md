@@ -317,7 +317,6 @@ Politicans are encouraged to encourage in actions like **logrolling** and **pork
 
 **Establishmend of a Congressional Budget Office for each house** to investigate the budget allocated by the president.
 
-
 ### Discussion Questions
 Trace the route of a bill through congress name all the points wheere a bill could die.
 
@@ -326,3 +325,4 @@ What are the different types of committes in Congress? What are the most powerfu
 What are some of the criticisms of Congress? How has congress sought to improve itself?
 
 What are all of the differences between the House and the Senate? Discuss the leadership...
+
