@@ -146,7 +146,7 @@ Most of these appointments must be confirmed by the senate
 Some of the heads of these agencies can be removed at any time by the president - others are for a fixed term.
 
 
-## Essay Question
+## <span class="fas fa-star" style="color: crimson"></span> Essay Question
 
 <br>
 
@@ -255,5 +255,74 @@ View on presidents are generally based on their ability to get things down and p
 
 
 James Barber (a political psychologists) classification
+
+> [!NOTE]
+>
+> Briggs myers is not a real way to measure personality, it wasn't even developed by real scientists.
+>
+> _Sorry I'm very passionate about this and she mentioned it in class, fuck briggs myers_
+
 - Active, passive - how involves president is in affairs? Does he take charge or do his advisors do most of the work?
 - Positive, negative - does the president enjoy what he is doing, or does he do it under a sense of obligation.
+
+#### Active, Positive
+Flexible men of high self esteem-most desirable personality to have. Progressive and dynamic people surround themselves with experts to seek best advice - enjoy being president - Examples: John Kennedy, Franklin Roosevelt, Obama(?) **Best personality type**.
+
+
+#### Active, Negative
+Compulse and aggressive, emphasis on getting and keeping power. **Most dangerous personality type**. View criticisms as personal and destructive. Strive to surround themselves with yes men. Examples Wilson, Nixon, Johnson, and Donald Trump.
+
+#### Passive, Negative
+Dutiful but vague, bent on avoiding conflict. Examples: Eisenhower, Washington, Obama.
+
+#### Passive, Positive
+Compliant, seeks acceptance. Examples: Reagan
+
+## <span class="fas fa-star" style="color: crimson"></span> Final Question
+
+<br>
+
+> [!DANGER]
+>
+> Discuss the reasons why there recently seem to be a lack of good presidents. What can be done to remedy this problem?
+
+## Where did all the good presidents go?
+In the past the presidents were bigger than life and believed to be all powerful men who could forcefully control the country. Now presidents aren't held in such a high esteem until the election of President Obama - why?
+
+> [!TIP]
+>
+> **Speculation:** This is almost certainly going to be an exam question, study it.
+>
+> Sincerely, <br> The guy who has a C in the class
+
+
+### 3 Reasons 
+1. Society has changed in such a way that it is almost impossible for a president to have complete control of the country. *(this one is important fam)*
+  * President is separated from the workings of govt. in that he is often of a different party than the majorty in the Congress. Hard to influence policy if Congress is not of his party.
+  * There weren't many parties back in the day, there was less separation (well, other than the south and north).
+  * The first couple of presidents did not try to influence the politics of the congress.
+  * Party politics have declined and **issue politics** are more important.
+  * Harder for the president to get people to support him or rally people together on the basis of his party.
+  * Nationalization of politics and society -  now the public knows all the news and every move by the president will be scrutinized by the public.
+  * The relative decline of American Economic and Political power - as the US economy continues to decline, president has less money to play around with and may not pursue all the policies that he wishes to.
+
+> **Issue politics** -definition-
+>
+> People voting for candidates because of their stances on issues or issues that are with the candidate, most commonly a single issue.
+
+2. The way that presidents are chosen is now incorrect - before the best man for the job was sleected, now the man who looks the best on TV is selected
+  * The wrong men are being selected for the job.
+  * The **ideal** candidate should have the following characteristics:
+    * Be knowledgeable about how government works
+    * Have previous experience as governor or some leadership position
+    * Be committed to the American Creed
+    * Be familiar with the inner workings of Washington DC.
+    * Characteristics of the average candidate.
+  * Characteristics of the **agerage** candidatrks
+    * Has a lot of money
+    * Looks good on TV
+    * Have plenty of free time to run a campaign
+    * He may not possess any of the skills necessary for the office!
+
+3. Different and inappropriate office types have occupied the office of the presidency.
+  * James Barbers' classification active - negative and possitive rather than the best, which is active positive.
