@@ -24,7 +24,7 @@ The House of Representatives vote for which of the top three electoral college c
 
 > [!COMMENT]
 > What does a president look like?
-> 
+>
 > * Male
 > * Over 6ft tall
 > * No facial hair
@@ -155,7 +155,7 @@ Some of the heads of these agencies can be removed at any time by the president 
 
 ## Roles of the President
 
-### Chief executive
+### Chief Executive
 * President appoints ambassadors, judges, cabinet leaders.
 * Sees that the laws are faithfully executed.
 * Oversees running of the executive branch of governmnet.
@@ -171,6 +171,7 @@ Some of the heads of these agencies can be removed at any time by the president 
 > * Thorough in researching things before making decisions.
 > * Well-thought out reports with all the details.
 > * Had a strong stance on diplomacy. "We are not at war with muslims"
+> * Actually listened to his chief of staff and advisors.
 >
 > _He was also not previously experienced in foreign policy though._
 
@@ -192,4 +193,66 @@ Some of the heads of these agencies can be removed at any time by the president 
 Trump not so big on diplomacy - his 2019 budget proposes to cut the State Department's budget by nearly 30%!
 
 ### Commander in Chief
+* Granted by the Constitution.
+* "Police actions" can commit troops without war declaration.
+* Head of the armed forces.
+* Congress - War Powers Act of 1973 (presidential troop commitment to 60 days, Congress resolution can withdraw troops after 60 days), Congress power to pursue strings (cannot give money to President to fight war - example Reagan and the contras).
+* Public opinion limit president's actions. example: *Vietnam*
+* Appoint military officials.
+* Initiate war.
 
+> [!COMMENT]
+>
+> When Trump came into power his ability to deploy nukes without permission were limited in order to prevent disasters. <sup>(I don't know if this is true... I can't find any sources but ok)</sup>
+
+### Chief Legislator
+Strong presidents get Congress to pass bills that they support. They tell Congress what they view to be important through:
+* State of the Union address.
+* White House Congressional Liaison office lobbies for propsals.
+* President can veto bills he doesn't like.
+* President can appeal to the public for them to put pressure on Congress - effective only it president is popular. *Trump does not do this*
+* President gets most bills passed when the majority of Congress is the same party as president. *This also doesn't apply to trump lol*
+* President can order Congress to convene for a special session.
+
+### Party Chief
+* Head of his party
+* Control national party organization
+* Influence state and local parties through prestige
+* Coattail influence diminishing now
+
+### Chief Economic Planner
+How the president can control the economy
+
+#### Budget
+Prepares the budget (must be approved by congress - fiscal year starts Oct. 1st so budget must be approved by then) Current mudget that President Obama submitted (and must be approved by Congress) is $4 trillion (largest budget in US history)
+
+**Trump's proposed budget - must be approved by both houses of congress**
+* Medicare
+* Social Security
+* Defense
+
+##### Trump's Budget
+HOLY SHIT SHE SCROLLS SO FAST I CAN'T KEEP Up
+
+#### Other Powers
+* Can exert influence on Federal Reserve Board.
+* Can grant loans or bailouts for priate companies (the banking industry, the auto industry, etc.).
+* Can try to control inflation, freeze prices (Nixon tried to do this in the 1970's).
+* Can control business regulations.
+
+## Characterizing the Presidency
+Strong and weak presidents, Roosevelt, Nixon, Johnson viewerd to be strong presidents while Carter and Ford viewed to be weak. 
+
+View on presidents are generally based on their ability to get things down and pass policies.
+
+### What makes a president strong?
+1. Media support - Fox news vs. everyone else
+2. Congressional support - able to pass a lot of his policies through Congress
+3. Takes an active role in affairs
+4. Popular with the public
+5. Popular with other elites
+6. \*Personality
+
+- James Barber (a political psychologists) classification
+- Active, passive - how involves president is in affairs? Does he take charge or do his advisors do most of the work?
+- Positive, negative - does the president enjoy what he is doing, or does he do it under a sense of obligation.
