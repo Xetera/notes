@@ -144,3 +144,52 @@ Usually not located in the West Wing
 Most of these appointments must be confirmed by the senate
 
 Some of the heads of these agencies can be removed at any time by the president - others are for a fixed term.
+
+
+## Essay Question
+
+<br>
+
+> [!DANGER]
+> What are the different roles of the president? Which roles in your opinion is Trump successful in performing? Which roles in your opinion is Trump not successful in performing?
+
+## Roles of the President
+
+### Chief executive
+* President appoints ambassadors, judges, cabinet leaders.
+* Sees that the laws are faithfully executed.
+* Oversees running of the executive branch of governmnet.
+* Prepare budget.
+
+<br>
+
+> [!COMMENT]
+> Comparison: **Obama**
+>
+> * Went to meetings on time.
+> * Demanted perfection from his cabinet.
+> * Thorough in researching things before making decisions.
+> * Well-thought out reports with all the details.
+> * Had a strong stance on diplomacy. "We are not at war with muslims"
+>
+> _He was also not previously experienced in foreign policy though._
+
+### Chief Diplomat
+* Represents the nation abroad.
+* Presidency has full power in foreign affairs.
+* President alone negotiates treaties (Congress must approve).
+* Executive agreements.
+* Can recognize or not recognize other nations (**de jure** and **de factor** recognition).
+
+> **De jure** -definition-
+>
+> Legal recognition, exchanging ambassadors between countries.
+
+> **De facto** -definition-
+>
+> Unofficial recognition, free travel and trade but not legally and without ambassadors.
+
+Trump not so big on diplomacy - his 2019 budget proposes to cut the State Department's budget by nearly 30%!
+
+### Commander in Chief
+
