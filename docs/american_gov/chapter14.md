@@ -253,6 +253,7 @@ View on presidents are generally based on their ability to get things down and p
 5. Popular with other elites
 6. \*Personality
 
-- James Barber (a political psychologists) classification
+
+James Barber (a political psychologists) classification
 - Active, passive - how involves president is in affairs? Does he take charge or do his advisors do most of the work?
 - Positive, negative - does the president enjoy what he is doing, or does he do it under a sense of obligation.
