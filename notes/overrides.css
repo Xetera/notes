@@ -1,0 +1,10 @@
+.alert.callout {
+  background: #242e33 !important;
+  border-top: 0 !important;
+  border-right: 0 !important;
+  border-bottom: 0 !important;
+}
+
+.app-name-link {
+  font-weight: 600;
+}
