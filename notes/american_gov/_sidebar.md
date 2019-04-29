@@ -5,3 +5,4 @@
 * [Chapter 3 [**Federalism**]](american_gov/chapter3.md)
 * [Chapter 13 [**Congress**]](american_gov/chapter4.md)
 * [Chapter 14 [**The Presidency**]](american_gov/chapter14.md)
+* [Chapter 16 [**The Judiciary**]](american_gov/chapter16.md)
