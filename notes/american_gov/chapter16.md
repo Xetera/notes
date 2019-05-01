@@ -176,6 +176,11 @@ But now, our Supreme Court has the powers to make broad policy due to the follow
 * Chief Justice's Warren Court (1953-1969) dominant in the 60's practiced judicial activism - passed a lot of civil right legislation because they were influenced by the political mood of society at the time.
 * **Brown vs Board of Education**: Court said all segregation was illegal not just school segregation. This is a broad policy, it affected every aspect of American society.
 
+Living Constitution interpretation - The opposite of judicial originalism is to view the constitution as a living constitution - something that should be interpreted according to the current standards, practices, and beliefs.
+
+Under a living constitution - judicial activism can take place - whether it is liberal judicial activism or conservative judicial activism. Remember how we said earlier that judicial activism is a way judges make policy.
+
+
 #### <i class="fas fa-book icon"></i> Living constitution
 The essence of the meaning of the constitution should be interpreted with today's society's beliefs as opposed to the literal meaning.
 
