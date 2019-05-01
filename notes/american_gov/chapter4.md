@@ -19,14 +19,15 @@
 
 ## <span class="fas fa-star" style="color: crimson"></span> Essay Questions
 
+<br>
+
 > [!DANGER]
 > Discuss all the differences between the House of Representatives and The Senate.
 
 ### Structures of Congress
 
-> **Bicameral** -definition-
->
-> Two houses.
+#### <i class="fas fa-book icon"></i> Bicameral
+Two houses.
 
 ### Differences Between House and State
 | Points                   |  House of R | Senate        |
@@ -51,7 +52,9 @@ Each senator is more powerful than a representative.
 
 ## Types of Voting in Congress
 
-### <span class="fas fa-star" style="color: crimson"></span> Essay Question #4
+### <span class="fas fa-star icon" style="color: crimson"></span> Essay Question #4
+
+<br>
 
 > [!DANGER]
 > What are the differences between house and senate?
@@ -96,7 +99,7 @@ The organization votes through the agreement of an organization. Ex: Republicans
 > [!NOTE]
 > The organizational view currently no longer seems to be working because the republicans do not want to work with Trump.
 
-### US Congress vs Parliment
+### US Congress vs Parliament
 #### Differences
 * US Congress get paid more than most parliamentary members.
 * US Congressmen wield more individual power than most.
@@ -136,12 +139,12 @@ The Policy committee of each party - gives senators their assignments.
 
 | Position                    | In Power                                          |
 | -                           |                                                 - | 
-| **President of The Senate** | <span style="color: red">Mike Pence</span>
-| **President Pro Tempore**   | <span style="color: red">Orin Hatch</span>
-| **Majority Leader**         | <span style="color: red">Mitch McConnell</span> 
-| **Minority Leader**         | <span style="color: blue">Chuck Schumer</span> 
-| **Majority Whip**           | <span style="color: red">John Thune</span> 
-| **Minoriy Whip**            | <span style="color: blue">Richard Durbin</span> 
+| **President of The Senate** | <span style="color: crimson">Mike Pence</span>
+| **President Pro Tempore**   | <span style="color: crimson">Orin Hatch</span>
+| **Majority Leader**         | <span style="color: crimson">Mitch McConnell</span> 
+| **Minority Leader**         | <span style="color: teal">Chuck Schumer</span> 
+| **Majority Whip**           | <span style="color: crimson">John Thune</span> 
+| **Minoriy Whip**            | <span style="color: teal">Richard Durbin</span> 
 
 **53** Republicans
 
@@ -175,11 +178,11 @@ Is extremely powerful and partisan, gets to decide:
 
 | Position                 |                                       In Power |
 | -                        |                                              - |
-| **Speaker of the House** | <span style="color: blue">Nancy Pelosi</span> 
-| **Majority Leader**      | <span style="color: blue">Steny Hoyer</span> 
-| **Minory Leader**        | <span style="color: red">Kevin McCarthy</span> 
-| **Majority Whip**        | <span style="color: blue">James Clyurn</span> 
-| **Minory Whip**          | <span style="color: red">Steve Scalise</span> 
+| **Speaker of the House** | <span style="color: teal">Nancy Pelosi</span> 
+| **Majority Leader**      | <span style="color: teal">Steny Hoyer</span> 
+| **Minory Leader**        | <span style="color: crimson">Kevin McCarthy</span> 
+| **Majority Whip**        | <span style="color: teal">James Clyurn</span> 
+| **Minory Whip**          | <span style="color: crimson">Steve Scalise</span> 
 
 **197** Republicans
 
@@ -190,12 +193,12 @@ Is extremely powerful and partisan, gets to decide:
 Reasons why the speaker of the house the most powerful position in the congress
 * In charge of more people
 * She recognizes speakers - decides who may speak on the floor.
-* Decides on committee juristiction
+* Decides on committee jurisdiction
 * Decides which committees bills go to.
-* Appoints members of special and select comittees
+* Appoints members of special and select committees
 
 Chairmen of the other committees - Democrat
-### Organization of Committes in Congress
+### Organization of Committees in Congress
 
 **Three functions of committees:**
 1. Consider bills or legislative proposals
@@ -227,9 +230,8 @@ Most bills die in Congress and never become law.
 * If the committee likes the bill they can markup the bill (making it presentable as a legal document).
 * Subcommittee can vote to recommend or not recommend the bill, if it's not recommended, it doesn't pass.
 
-> **Quorum** -definition
-> 
-> The minimum number of members of an assembly that must be present at any of its meetings to make the proceedings of that meeting valid.
+#### <i class="fas fa-book icon"></i> Quorum
+The minimum number of members of an assembly that must be present at any of its meetings to make the proceedings of that meeting valid.
 
 218 house members must be present for the vote to take place.
 51 senators are needed for there to be a vote on the bill.
@@ -288,18 +290,15 @@ Committee and subcommittee chairmen will be members of the majority party.
 * Rules committee
 
 ### Criticisms of Congress
-1. Congress is fragmented, unresponsive, and it takes a long time to pass a bill. More bills are killed than passed.
-Politicans are encouraged to encourage in actions like **logrolling** and **pork barreling**.
-
-> **Logrolling** -definition-
->
-> Politicians doing favors for one another _I'll vote for your bill if you vote for mine_
-
-> **Pork Barrelling** -definition-
->
-> Politicians putting amendments on bills that only help their own districts using the taxpayer money.
+1. Congress is fragmented, unresponsive, and it takes a long time to pass a bill. More bills are killed than passed. Politicans are encouraged to encourage in actions like **logrolling** and **pork barreling**.
 
 2. Congress isn't maintaining legislative review of the executive branch. This became apparent during the vietnam war when the congress felt like it was difficult to control the president's actions.
+
+#### <i class="fas fa-book icon"></i> Logrolling
+Politicians doing favors for one another _I'll vote for your bill if you vote for mine_
+
+#### <i class="fas fa-book icon"></i> Pork Barrelling
+Politicians putting amendments on bills that only help their own districts using the taxpayer money.
 
 #### Attempted Solutions
 **Sunshine laws** were passed to expose everything the congress does publicly. All the information is available online etc... *this is the important one*
@@ -310,14 +309,13 @@ Politicans are encouraged to encourage in actions like **logrolling** and **pork
 
 **War Powers Act of 1973** 60 days after the US troops have been deployed anywhere in the world, the congress can call them back. *this has never been used*
 
-**Establishmend of a Congressional Budget Office for each house** to investigate the budget allocated by the president.
+**Establishment of a Congressional Budget Office for each house** to investigate the budget allocated by the president.
 
 ### Discussion Questions
-Trace the route of a bill through congress name all the points wheere a bill could die.
+Trace the route of a bill through congress name all the points where a bill could die.
 
-What are the different types of committes in Congress? What are the most powerful types of committees? How are committee assignments determined? What functions do committees perform?
+What are the different types of committees in Congress? What are the most powerful types of committees? How are committee assignments determined? What functions do committees perform?
 
 What are some of the criticisms of Congress? How has congress sought to improve itself?
 
 What are all of the differences between the House and the Senate? Discuss the leadership...
-

@@ -2,7 +2,7 @@
 
 ## Opening Remarks
 * Founders did not expect a major policy role for the federal courts
-* Traditinal views: judges find and apply law
+* Traditional views: judges find and apply law
 * Supreme Court is the only court explicitly mandated by the Constitution
 
 ## US Courts
@@ -16,7 +16,7 @@
 **State supreme courts**
 
 ## Federal Courts
-**District ourts - 94**
+**District courts - 94**
 Vast majority of all federal cases begin here (handles breaking of federal criminal laws).
 
 **Courts of appeal - 13**
@@ -33,7 +33,7 @@ Nominated by the president senatorial courtesy will ask Senators from state with
 **Cases that lower Federal Court can hear**: disputes that violate federal laws, ex. evasion of Federal taxes, money laundering, counterfeit money, transportation of illegal substances across state borders, etc.
 
 **Members of the Supreme Court**
-* Chief Justice - Roerts (appointment by George W. Bush, very conservative)
+* Chief Justice - Roberts (appointment by George W. Bush, very conservative)
 * Alieto 
 
 (oops I missed the rest, you have to know this list tho. It's in your syllabus)
@@ -46,7 +46,7 @@ President usually nominates someone from his own party who shares his same views
 
 Each year about 80 cases are heart by the Supreme Court. The Supreme Court session always starts the first Monday in October and lasts usually through end of June.
 
-## <span class="fas fa-star" style="color: crimson"></span> Final Question
+## <span class="fas fa-star icon"></span> Final Question
 
 > [!DANGER]
 > Discuss how the Supreme Court works on a case. Please discuss the two ways a case gets to the Supreme Court, what takes place while the Court is hearing the case, how the vote is taken, and finally the different types of opinions the Court may publish. Also discuss what "setting precedent" and "state decisis" mean.
@@ -54,7 +54,7 @@ Each year about 80 cases are heart by the Supreme Court. The Supreme Court sessi
 ### Original Jurisdiction
 Court *must* hear original jurisdictions because there's no other court for them.
 
-Original juristiction makes up about only 2% of the cases the supreme court hears.
+Original jurisdiction makes up about only 2% of the cases the supreme court hears.
 
 * Cases involving disputes between two state governments
 * Cases involving foreign diplomats: If a foreign diplomat commits a major crime, they don't get immunity and the cases go to the supreme court.
@@ -70,11 +70,11 @@ Cases heart on appeal from either state Supreme Courts or US circuit court of ap
 
 > [!COMMENT]
 > * Congress can change the types of cases that the Supreme Court can hear.
-> * Supreme court can get to pick and choose what cases they want to hear on appeal, but **not** original juristictions.
+> * Supreme court can get to pick and choose what cases they want to hear on appeal, but **not** original jurisdictions.
 
 <br>
 
-Petition of Writ of Certiorari (pronounced shersherorii) is given to the court (costs $300 - but if you can't affod it you can file a in forma pauperis for free and have your case heart) - this is the act by which the losing party in a lower court case appeals to the Supreme Court to hear the case to make the facts "more certain".
+Petition of Writ of Certiorari (pronounced shersherorii) is given to the court (costs $300 - but if you can't afford it you can file a in forma pauperis for free and have your case heart) - this is the act by which the losing party in a lower court case appeals to the Supreme Court to hear the case to make the facts "more certain".
 
 * Most of the lower cases on appeal come from the federal court of appeals.
 * 90% of all Supreme Courts cases are appealed to in this way.
@@ -104,7 +104,7 @@ There is _no_ jury in the supreme court, only 9 judges.
 
 Cameras or any kind of media are not allowed in supreme courts.
 
-Solicitor General presents the case to the Supreme Court on behalf of the United States if the Federal govt. is one of the aggrieved parties. The solciitor general also decides what cases the government will appeal from lower courts and personally approves or disapproves every case the govt. presents to the Supreme Court.
+Solicitor General presents the case to the Supreme Court on behalf of the United States if the Federal govt. is one of the aggrieved parties. The solicitor general also decides what cases the government will appeal from lower courts and personally approves or disapproves every case the govt. presents to the Supreme Court.
 
 Judges hear and read arguments by lawyers on each side - lawyers set forth the facts, summarize the lower court decision, give their arguments, and discuss other cases the Court has decided upon that seem to bear on the issue.
 
@@ -144,13 +144,83 @@ If Chief Justice is in the majority, he will either write the opinion or assign 
 
 (There was a big paragraph about how the dissenting opinion help changed the views on segregation at some point but it was way too long to type, sorry)
 
-### Legal Terms 
+### <i class="fas fa-book icon"></i> Stare decisis
+"Let the decision stand" means for the court to look to previous cases to look decide. It will look to previous cases to look decide. It will rule on current case how it has ruled in the past on similar cases. The way of interpreting the Constitution doesn't change when the court practices _stare decisis_.
 
-> **Stare decisis** -definition-
+
+### <i class="fas fa-book icon"></i> Set precedent
+Means court has changed its mind with regard to past rulings and rules in a new and different way. The court has re-interpreted the Constitution in a new way and as a result, new policy is created.
+
+## Judicial Power to Make Policy
+Founders expected judicial review to deal with narrowly defined matters and not broad policy.
+
+But now, our Supreme Court has the powers to make broad policy due to the following powers:
+
+* **Judicial Review**: The Supreme Court's chief weapon to check Congress' legislation. It has the power to declare laws of Congress and acts of the executive branch void and unenforceable if they are judged to be in conflict with the constitution. Over 100 national laws have been declared by the Supreme Court to be unconstitutional.
+* Courts have the right to declare acts and laws unconstitutional. Marbury v. Madison in 1803 under Chief Justice Marshall in the 19th century, established judicial review, declared that courts could reinterpret past cases and declare them unconstitutional.
+* England's courts and most courts in the world don't have this right.
+
+## <span class="fas fa-star icon"></span> Discussion Question
+
+<br>
+
+> [!DANGER]
 >
-> "Let the decision stand" means for the court to look to previous cases to look decide. It will look to previous cases to look decide. It will rule on current case how it has ruled in the past on similar cases. The way of interpreting the Constitution doesn't change when the court practices _stare decisis_.
+> Discuss the merits of a judicially activist ([living constitution](#-living-constitution)) vs. a judicially constructionist ([judicial originalism](#-judicial-originalism) also called judicial restraint) interpretation of Constitution. Which view do you support?
+
+### Judicial Activism
+
+* Able to occur because much American law is common law which means there isn't an actual law, law was made as a result of common practice. Judges can rule these common practices as unconstitutional.
+* Liberal and conservative approach.
+* Take an active role in interpreting the Constitution to the current political situation. Judges should discover the general principle underlying the Constitution and amplify those principles on the basis of some moral or economic philosophy.
+* Chief Justice's Warren Court (1953-1969) dominant in the 60's practiced judicial activism - passed a lot of civil right legislation because they were influenced by the political mood of society at the time.
+* **Brown vs Board of Education**: Court said all segregation was illegal not just school segregation. This is a broad policy, it affected every aspect of American society.
+
+#### <i class="fas fa-book icon"></i> Living constitution
+The essence of the meaning of the constitution should be interpreted with today's society's beliefs as opposed to the literal meaning.
+
+##### Criticism 
+The people enforcing the law lack expertise to make the law and they are not accountable to the people.
+
+##### Retort
+Even if judges to practice judicial activism, they don't have the power to enforce the laws. The local city and state police departments do this. If they don't like the Supreme Court's ruling, they may choose to not support it.
+
+#### <i class="fas fa-book icon"></i> Judicial originalism
+A conservative interpretation of the law, interpret Constitution according to the letter of the law . Judges should confine themselves to applying those rules that are stated in or clearly implied by - the language of the Constitution. They should search for the **original** intent of the founders of the Constitution and not interpret the Constitution to today's standards and beliefs.
+
+## Congress
+* Alter the composition of the judiciary - has remained 9 since 1869.
+* Confirmation and impeachment proceedings - Bork and Ginsberg not confirmed, Justice Chase impeached in 1804 but acquitted.
+* Constitutional amendments - used 4 times to reverse a Supreme Court decisions.
+* Congress has shown its dissatisfaction with Supreme Court interpretations of laws it passes by amending or re-enacting the legislation to clarify its original intent and overrule a contrary Court construction.
+
+## Examples
+In 1991 Congress passed a broad, new Civil Rights Act that specifically reversed 5 Supreme Court cases decided in 1989 - decisions that severely restricted and limited workers' rights under federal anti-discrimination laws. Congress acted to undo those rulings, as well as make other changes to federal law that strengthened the weapons available to workers against discrimination.
+
+* Funding: Congress may cut funds to carry out a decision - medicaid and abortions.
+* Change the jurisdiction of the Courts - Congress withdrew apellate juristiction during reconstruction
+* Publicly criticize Supreme Court decisions
+
+## President
+* Appoint Supreme Court justices that agree with president - problem you can only appoint if there is a vacancy and once in office, can't predict how they will act.
+* Appeal to public or Congress to oppose or support Supreme Court decision.
 
 
-> **Set precendent** -definition-
->
-> Means court has changed its mind with regard to past rulings and rules in a new and different way. The court has re-interpreted the Constitution in a new way and as a result, new policy is created.
+## State Officials and Local Police Agencies
+May refuse to enforce Supreme Court policy. In Brown vs the Board of education in which the Supreme Court said segregation was illegal, many Southern police departments refused to held desegregate schools.
+
+### Example
+Virginia, Senator organized the Massive Resistance movement that included the closing of schools rather than desegregating them.
+
+In 1957, Arkansas Governor called out his state's National Guard to block black students' entry to Little Rock High School. President Dwight Eisenhower responded by deploying elements of the 101st Airborne Division from Fort Campbell, Kentucky to Arkansas and by federalizing Faubus' National Guard.
+
+In 1963, Alabama Gob. George Wallace personally blocked the door to Foster Auditorium at the University of Alabama to prevent the enrollment of two black students. This became the infamous "Stand at the Schoolhouse Door" where Wallace personally backed his "segregation now, segregation tomorrow, segregation forever."
+
+
+## Public Opinion
+General and elite. If the public and elites are not in favor of a given issue, the Court will be hesitant to rule in a way that will upset the public.
+
+### Judicial Self Restraint
+Court will not try to decide a case which may be so controversial that no matter how they decide the class, their decision will divide the nation. A case that would out-law abortion would be an example of such a case.
+
+They also won't hear cases that are viewed to be too political - associated with a political party, a specific politician or candidate, or a specific political ideology. **The Supreme Court tries to be "above" politics and wants ot be kept out of the "political thickets".**

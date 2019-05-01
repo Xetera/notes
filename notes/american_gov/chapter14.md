@@ -1,7 +1,5 @@
 # Chapter 14 - The Presidency
 
-<br>
-
 ## Opening Remarks
 Article II of the Constitution establishes the powers and requirements of the president.
   * Must be a natural born citizen
@@ -146,7 +144,7 @@ Most of these appointments must be confirmed by the senate
 Some of the heads of these agencies can be removed at any time by the president - others are for a fixed term.
 
 
-## <span class="fas fa-star" style="color: crimson"></span> Essay Question
+## <span class="fas fa-star icon" style="color: crimson"></span> Essay Question
 
 <br>
 
@@ -180,15 +178,13 @@ Some of the heads of these agencies can be removed at any time by the president 
 * Presidency has full power in foreign affairs.
 * President alone negotiates treaties (Congress must approve).
 * Executive agreements.
-* Can recognize or not recognize other nations (**de jure** and **de factor** recognition).
+* Can recognize or not recognize other nations ([de jure](#-de-jure) and [de facto](#-de-facto) recognition).
 
-> **De jure** -definition-
->
-> Legal recognition, exchanging ambassadors between countries.
+#### <i class="fas fa-book icon"></i> De jure
+Legal recognition, exchanging ambassadors between countries.
 
-> **De facto** -definition-
->
-> Unofficial recognition, free travel and trade but not legally and without ambassadors.
+#### <i class="fas fa-book icon"></i> De facto
+Unofficial recognition, free travel and trade but not legally and without ambassadors.
 
 Trump not so big on diplomacy - his 2019 budget proposes to cut the State Department's budget by nearly 30%!
 
@@ -270,7 +266,7 @@ Flexible men of high self esteem-most desirable personality to have. Progressive
 
 
 #### Active, Negative
-Compulse and aggressive, emphasis on getting and keeping power. **Most dangerous personality type**. View criticisms as personal and destructive. Strive to surround themselves with yes men. Examples Wilson, Nixon, Johnson, and Donald Trump.
+Compulsive and aggressive, emphasis on getting and keeping power. **Most dangerous personality type**. View criticisms as personal and destructive. Strive to surround themselves with yes men. Examples Wilson, Nixon, Johnson, and Donald Trump.
 
 #### Passive, Negative
 Dutiful but vague, bent on avoiding conflict. Examples: Eisenhower, Washington, Obama.
@@ -278,7 +274,7 @@ Dutiful but vague, bent on avoiding conflict. Examples: Eisenhower, Washington, 
 #### Passive, Positive
 Compliant, seeks acceptance. Examples: Reagan
 
-## <span class="fas fa-star" style="color: crimson"></span> Final Question
+## <span class="fas fa-star icon" style="color: crimson"></span> Final Question
 
 <br>
 
@@ -301,16 +297,12 @@ In the past the presidents were bigger than life and believed to be all powerful
   * President is separated from the workings of govt. in that he is often of a different party than the majorty in the Congress. Hard to influence policy if Congress is not of his party.
   * There weren't many parties back in the day, there was less separation (well, other than the south and north).
   * The first couple of presidents did not try to influence the politics of the congress.
-  * Party politics have declined and **issue politics** are more important.
+  * Party politics have declined and [issue politics](#-issue-politics) are more important.
   * Harder for the president to get people to support him or rally people together on the basis of his party.
   * Nationalization of politics and society -  now the public knows all the news and every move by the president will be scrutinized by the public.
   * The relative decline of American Economic and Political power - as the US economy continues to decline, president has less money to play around with and may not pursue all the policies that he wishes to.
 
-> **Issue politics** -definition-
->
-> People voting for candidates because of their stances on issues or issues that are with the candidate, most commonly a single issue.
-
-2. The way that presidents are chosen is now incorrect - before the best man for the job was sleected, now the man who looks the best on TV is selected
+2. The way that presidents are chosen is now incorrect - before the best man for the job was selected, now the man who looks the best on TV is selected
   * The wrong men are being selected for the job.
   * The **ideal** candidate should have the following characteristics:
     * Be knowledgeable about how government works
@@ -318,11 +310,14 @@ In the past the presidents were bigger than life and believed to be all powerful
     * Be committed to the American Creed
     * Be familiar with the inner workings of Washington DC.
     * Characteristics of the average candidate.
-  * Characteristics of the **agerage** candidatrks
+  * Characteristics of the **average** candidatures
     * Has a lot of money
     * Looks good on TV
     * Have plenty of free time to run a campaign
     * He may not possess any of the skills necessary for the office!
 
 3. Different and inappropriate office types have occupied the office of the presidency.
-  * James Barbers' classification active - negative and possitive rather than the best, which is active positive.
+  * James Barbers' classification active - negative and positive rather than the best, which is active positive.
+
+#### <i class="fas fa-book icon"></i> Issue politics
+People voting for candidates because of their stances on issues or issues that are with the candidate, most commonly a single issue.

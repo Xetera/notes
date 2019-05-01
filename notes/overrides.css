@@ -30,3 +30,15 @@ li.deprecated > a {
 .primary {
   background-color: var(--cover-button-primary-background, var(--cover-button-background));
 }
+
+.icon {
+  margin-right: 5px;
+}
+
+.fa-book {
+  color: rgb(121, 82, 188);
+}
+
+.fa-star {
+  color: crimson;
+}

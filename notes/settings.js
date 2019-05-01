@@ -33,7 +33,7 @@ window.$docsify = {
     danger: {
       style: "flat",
       label: "Important",
-      icon: "fas fa-star"
+      icon: "fas fa-bomb"
     },
     comment: {
       label: "Lecture",
