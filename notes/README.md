@@ -1,4 +1,4 @@
-# Oh hi, its you!
+# Welcome To My Lair
 
 Hey there, I'm a computer science student and a very experienced slacker 
 so I decided to take some notes during class to help myself stay 

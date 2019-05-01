@@ -13,3 +13,20 @@ li.deprecated > a {
   color: #7d7a7a !important;
   text-decoration: line-through !important;
 }
+
+.button {
+  background-color: var(--cover-button-primary-background, var(--cover-button-background));
+  cursor: pointer;
+  padding: 15px;
+  color: white;
+  border-radius: 4px;
+  border: 0;
+}
+
+.button a {
+  text-decoration: none;
+}
+
+.primary {
+  background-color: var(--cover-button-primary-background, var(--cover-button-background));
+}

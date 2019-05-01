@@ -22,6 +22,7 @@ window.$docsify = {
     "/american_gov/chapter14.md",
     "/american_gov/chapter16.md",
   ],
+  coverpage: true,
   /**
    * Alert customizations
    * 
