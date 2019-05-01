@@ -21,4 +21,3 @@ Click on the links on the side to get started
 
 ### Helpful Links
 * [Link to Textbook](https://drive.google.com/open?id=1Yhw1qaFDaAW8u4kMeWqtG5rluSPYjJQg)
-* [Download Notes as PDF](/downloads/american_gov.pdf ':ignore') These might be formatted weirdly or incomplete, I will have a complete PDF of all the notes up before midterms/finals, if you want a pdf before that, **talk to me.**

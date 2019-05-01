@@ -1,10 +1,5 @@
 # Chapter 13 - Congress
 
-<br>
-
-> [!DANGER|label:READ THIS]
-> This chapter (Congress) is **NOT** on the midterm, just the final.
-
 ## Opening Remarks 
 
 ### Powers of Congress
@@ -22,7 +17,7 @@
 > No other country but the US can investigate a president during their presidency.
 
 
-## Essay Questions
+## <span class="fas fa-star" style="color: crimson"></span> Essay Questions
 
 > [!DANGER]
 > Discuss all the differences between the House of Representatives and The Senate.
@@ -56,7 +51,7 @@ Each senator is more powerful than a representative.
 
 ## Types of Voting in Congress
 
-### Essay Question #4
+### <span class="fas fa-star" style="color: crimson"></span> Essay Question #4
 
 > [!DANGER]
 > What are the differences between house and senate?
@@ -210,7 +205,7 @@ Chairmen of the other committees - Democrat
 
 ### How  Bill Becomes Law
 
-#### Essay Question
+#### <span class="fas fa-star" style="color: crimson"></span> Essay Question
 
 <br>
 

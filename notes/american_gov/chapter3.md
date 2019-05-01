@@ -1,6 +1,8 @@
 # Chapter 3 - Federalism
 ---
 
+!> This chapter is no longer relevant for upcoming tests.
+
 # Types of Government
 
 | Government Type | Central Control | State Control |

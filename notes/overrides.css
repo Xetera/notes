@@ -1,5 +1,5 @@
 .alert.callout {
-  background: #242e33 !important;
+  background: #1f282d !important;
   border-top: 0 !important;
   border-right: 0 !important;
   border-bottom: 0 !important;
@@ -7,4 +7,9 @@
 
 .app-name-link {
   font-weight: 600;
+}
+
+li.deprecated > a {
+  color: #7d7a7a !important;
+  text-decoration: line-through !important;
 }

@@ -1,6 +1,6 @@
 * [Home](/)
 
-**📝 Notes**
+**Notes**
 * [American Government](american_gov/)
 
 **Meta**
