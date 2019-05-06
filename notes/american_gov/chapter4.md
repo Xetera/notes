@@ -215,7 +215,7 @@ Chairmen of the other committees - Democrat
 > [!DANGER]
 > Discuss how a bill becomes law, discuss the points of death and discuss how the public influences the bill.
 
-![Passing a Law](https://www.lexisnexis.com/help/CU/The_Legislative_Process/bill2law.gif)
+![Passing a Law](/media/bill.gif)
 
 #### Points of death
 * Speaker of the House
