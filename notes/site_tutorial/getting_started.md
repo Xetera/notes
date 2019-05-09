@@ -19,12 +19,24 @@ Taking notes in class is really boring, but being able to put it online is a hug
   * Download [Github Desktop](https://desktop.github.com/).
   * if you are, download [Git Bash](https://git-scm.com/downloads) (you should already have this though).
 5. Clone your forked repository through the github app.
-6. Open up your terminal and navigate to the cloned repsitory.
+6. Open up your terminal and navigate to the cloned repository.
 7. Run the command `npm install -g docsify`
 8. Run the command `docsify serve notes`
 9. Open up your browser and go to http://localhost:3000
 
 ## Adding new notes
-
 You can look through the documentation for docsify here https://docsify.now.sh/more-pages
-1. 
+
+1. Add new folders for each new subject
+2. Add a new markdown file `example: calculus.md` and get to work with taking notes.
+3. To allow users to access the markdown notes, add a link to it from [_sidebar.md](/_sidebar.md)
+
+
+## Hosting your website
+You need to have your website on github for this to work
+
+1. Go to [Netlify](https://netlify.com) and log in with your github account that you created earlier.
+2. Create a new site from github.
+3. Select your note repository that you forked from mine.
+4. Set the `publish directory` as `notes`
+5. Keep pushing new commits to Github as you update your website and website be updated automatically!

@@ -12,7 +12,7 @@ The whole history of civil rights is about minorities fighting for rights that a
 ## <span class="fas fa-star icon"></span> Final Question
 
 > [!DANGER]
-> 
+>
 > Define civil liberties and civil rights and explain the difference between the two. Explain the role that government can play in the enforcement and/or protection of civil liberties and civil rights. What is the basis for civil liberties and civil rights in the Constitution? Support your response by giving at least one example of a civil liberty and civil right.
 
 #  Civil Liberties
@@ -220,3 +220,94 @@ The majority of crimes committed in America are committed by whites. Yet, if you
 There bas been a considerable progress in race relations over the past four decades. However, there is a gap between white and black race relation progress. ith the election of president Obama, many whites in particular feel that there has ben enough progress, equality has been achieved. Blacks on the other hand, still feel that there is a long way to go towards equalizing society.
 
 Many prominent blacks in political spotlight now more than ever in history - Barack Obama is one of the most widely popular presidents domestically and internationally of the 20th and 21st century. Other African Americans either now in political office or were in political office Colin Powell, Condolezza Rice, much of the Obama Administration. Many blacks elected into mayorships or governorships - Tom Bradley (LA), Harold Green (Philadelphia).
+
+## Feminist Movement
+Feminist movement has generally been much more successful than the black movement.
+
+Main goal was for **political equality**, then economic equality.
+
+Women didn't have to fight against laws that were intentionally biased against them but against laws that were passed for "their own protection".
+
+Not all females support feminist movement - There isn't a group consciousness like there was in the black moment.
+
+Generally the least support came from lower educated white women and men. The more education a woman got the more supportive of the movement she was. Professionals supported the movement more than non-professionals. Typical supporter of the feminist movement is a white, college educated middle class professional woman.
+
+Issues divide support: **abortion** and **daycare** are the biggest issues dividing the movement.
+
+### History
+
+#### Political Equality
+The women's movement grew out of the anti-slavery movement of the 19th century. First Women's Rights Convention called by Elizabeth Cady Stanton at Senaca Falls, New York in 1848. There they issued a Woman's Declaration of independence demanding the same rights granted to men. _Everyone ignored them_
+
+Women's movement began to gain steam in the late 19th century and pressured Congress to pass legislation to protect women workers and to prevent child labor. Finally in 1920, the 19th Amendment was passed giving women the right to vote.
+
+#### Modern Women's Movement
+
+Betty Friedman publishes __The Feminine Mystique__ a book which points out that women are capable of a lot more than having babies and cooking dinner.
+
+Encourages women to get out into the work force.
+
+National Organization for Women and National Women's Political Caucus formed in the 60's to fight for women's rights.
+
+These two organizations fought to get the ratification of the Equal Rights Amendment added to the Constitution.
+
+This amendment would guarantee women for the following things that they were fighting for:
+
+* Protection from job discrimination (men's work, forced maternity leave, etc).
+* Equal pay for equal work.
+* Still through the 60's and 70's and early 80's, women came far in getting economic equality. Most of their gains through court cases and changing society values.
+
+Amendment looked like it would pass in 1972, it sailed through Congress in 1972 and was approved by 22 state legislatures within a year. Then it ran int trouble as opposition mobilized. It failed and stalled finally in 1982, three states short of ratification (it got 35 and it needed 38).
+
+### Reed v. Reed
+Supreme Court ruled that a company could not refuse to hire women with pre-school age children if they hired men with young children.
+
+### Roe v. Wade
+Federally sponsored abortion is legal.
+
+### Lafleur V. Cleveland Board of Education
+Court rule it was arbitrary and unreasonable to require a woman who was pregnant to take maternity leave three months before she was due.
+
+### Women & Politics
+Geraldine Ferraro - Vice President running candidate of Mondale, Condoleeza Rice Secretary of State, Hillary Clinton next presidential candidate.
+
+<br>
+
+> [!COMMENT]
+> Employers are now not allowed to deny women a job because they might get pregnant.
+
+### Turning back the clock
+Reagan and George W. Bush came out strong against abortion - pushed for legislation making abortion a crime unless the woman was raped or it was incest.
+
+Both campaigned to take federal money away for abortions.
+
+Both Administrations relied on the "Old Boy's Network" rather than promote women's rights.
+
+Yet it was Reagan who appointed first female Supreme Court Justice (Sandra Day O'Connor) and it was Bush Jr. who appointed first female head of the National Security Council and Secretary of State (both Condileeza Rice).
+
+New Decade of Women's power under Obama.
+
+Two Supreme Court members are female: **Ruth Bader Ginsberg**, **Elanor Gaken and Sonya Sotomayor**.
+
+More females in key govt. positions - cabinet posts (Hillary Clinton Secretary of State and then President Candidate, Janet Napolitano Secretary of Homeland Security in the past, Nancy Pelosi Speaker of the House).
+
+Courts have ruled favorably on sexual harassment.
+
+### Trump
+* Disparages women.
+* Appointed a judge accused of sexual harassment.
+
+### Women's Movement Agenda (now)
+1. Uphold abortion rights
+2. Company funded daycare
+3. Equal retirement benefits
+4. Paid maternity leave
+5. Continue the #metoo movement despite the Kavanaugh **huge** setback and lack of support of the movement.
+6. Comparable worth - jobs that require equal levels of skill and knowledge should be paid the same. Secretary does the same amount of work and has the same knowledge as an accountant - should get the same.
+
+## <span class="fas fa-star icon"></span> Discussion Questions
+
+<br>
+
+> [!DANGER]
+> 
