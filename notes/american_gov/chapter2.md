@@ -1,6 +1,8 @@
 # Chapter 2 - The Constitution
 
-!> This chapter is no longer relevant for upcoming tests.
+::: danger
+This chapter is no longer relevant for upcoming tests.
+:::
 
 <br>
 

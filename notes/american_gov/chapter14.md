@@ -11,8 +11,9 @@ Article II of the Constitution establishes the powers and requirements of the pr
 * Whichever candidate gets at least 270 electoral college votes wins
 * What happens if NO candidate gets at least 270 votes? (maybe the vote is split three ways between three candidates or there is a tie - not likely to happen though)
 
-> [!COMMENT]
-> A third party candidate has never won a presidential vote before.
+::: tip Lecture
+A third party candidate has never won a presidential vote before.
+:::
 
 The House of Representatives vote for which of the top three electoral college candidates should be president - each state get one vote.
 
@@ -20,14 +21,13 @@ The House of Representatives vote for which of the top three electoral college c
 * Who campaigns the best, looks best on TV, spends the most money.
 * Most presidents were at one time congressmen (usually Senators) or governors
 
-> [!COMMENT]
-> What does a president look like?
->
-> * Male
-> * Over 6ft tall
-> * No facial hair
-> * White
-> * Athletic build
+## What does a president look like?
+
+* Male
+* Over 6ft tall
+* No facial hair
+* White
+* Athletic build
 
 ## How the presidency grew
 * Framers of the constitution wanted congress to be the most powerful branch

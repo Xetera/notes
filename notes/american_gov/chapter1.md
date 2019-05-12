@@ -1,6 +1,8 @@
 # Chapter 1 - Democracy
 
-!> This chapter is no longer relevant for upcoming tests.
+::: danger
+This chapter is no longer relevant for upcoming tests.
+:::
 
 <br>
 

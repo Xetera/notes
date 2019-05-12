@@ -13,20 +13,22 @@
   * Can impeach executive officers for wrong-doing, insanity, or incompetence.
   * Congress alone has the right to declare war and ratify treaties, but the president can get around this.
 
-> [!NOTE]
-> No other country but the US can investigate a president during their presidency.
+::: tip Note
+No other country but the US can investigate a president during their presidency.
+:::
 
 
-## <span class="fas fa-star" style="color: crimson"></span> Essay Questions
+## <span class="fas fa-star icon"></span> Essay Questions
 
 <br>
 
-> [!DANGER]
-> Discuss all the differences between the House of Representatives and The Senate.
+::: danger Important
+Discuss all the differences between the House of Representatives and The Senate.
+:::
 
 ### Structures of Congress
 
-#### <i class="fas fa-book icon"></i> Bicameral
+##### <Icons-Book/>  Bicameral
 Two houses.
 
 ### Differences Between House and State

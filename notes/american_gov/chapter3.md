@@ -1,7 +1,9 @@
 # Chapter 3 - Federalism
 ---
 
-!> This chapter is no longer relevant for upcoming tests.
+::: danger
+This chapter is no longer relevant for upcoming tests.
+:::
 
 # Types of Government
 
