@@ -1,4 +1,3 @@
-
 # American Government
 
 ::: warning <Icons-Warning/> Warning
@@ -12,7 +11,7 @@ I sit closest to the projector screen place thingy.
 ### Midterm Questions
 <Foldable>
 
-::: danger Warning
+::: danger Wait!
 This is outdated material
 :::
 
@@ -31,6 +30,12 @@ This is outdated material
 * Chapter 13
   * [House of Representatives vs Senate](/american_gov/chapter4.md#essay-question)
   * [How bills become law](/american_gov/chapter4.md#essay-question-2)
+  
+### All Previous Quiz Questions
+* [Chapter 13](/american_gov/chapter4.md#quiz-questions)
+* [Chapter 5 & 6](/american_gov/chapter5-6.md#quiz-questions)
+* [Chapter 14](/american_gov/chapter14.md#quiz-questions)
+* [Chapter 16](/american_gov/chapter16.md#quiz-questions)
 
 ### Helpful Links
 * [Link to Textbook](https://drive.google.com/open?id=1Yhw1qaFDaAW8u4kMeWqtG5rluSPYjJQg)
