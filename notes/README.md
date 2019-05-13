@@ -14,7 +14,7 @@ features:
     details: I try to update this website while taking notes in class, so everything should be up-to-date.
 ---
 
-# Classes
+## Classes
 
 <Subject 
   name="American Government"

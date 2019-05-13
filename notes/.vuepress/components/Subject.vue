@@ -71,6 +71,7 @@
 
     .image-container {
       width: 100% !important
+      height: 200px
     }
 
     .chapter-info {
@@ -119,11 +120,12 @@
     height: 100%;
     width: 100%;
     position: absolute
-    z-index 100
+    z-index 10
 
   .image-container
     position: relative
     width: 60%
+    min-height: 200px
 
   .chapter-prof
     font-size: 16px
@@ -133,7 +135,7 @@
     color: #373737
 
   .chapter-info
-    padding: 0 1rem
+    padding: 1.8 rem
     width: 40%
     display: flex
     flex-direction: column
@@ -141,7 +143,8 @@
 
   .chapter-image
     position: relative
-    object-fit contain
+    object-fit cover
+    min-height: 100%
 
   .chapter-container
     @media screen and (min-width: 767px)
