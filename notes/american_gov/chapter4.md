@@ -311,3 +311,29 @@ What are the different types of committees in Congress? What are the most powerf
 What are some of the criticisms of Congress? How has congress sought to improve itself?
 
 What are all of the differences between the House and the Senate? Discuss the leadership...
+
+
+### <Icons-Star/> Quiz Questions
+* Which of the following statements are true in terms of the number of representatives each house has in congress and their respective term lengths: *Standing committees**
+* Committes in congress have virtual power of life or death over every legislative matter.
+* Legislators who think of themselves as deleagtes are most likely to follow the wish of their constitutients closely.
+* Among the many powers of the house spakers is that he decides to which committess bills go.
+* If you wish to study the real leadership power in the senate you would most likely focus on the majority leader.
+* One of the most powerful committes in the house of representatives is the rules committe.
+* Which of the following statements about introducing a bill in congress is correct? A bill not passed during the session of one congress is dead for the congressional session and cannot be re-introduced for that same session.
+* If a house bill has just been reported out of committee and its sponsor worried that foriegn amendmends (uhh someting about the closed rule committe)
+* As a member of congress if you vote for a dairy support bill because this is your party's position you would describe your vote as organizational.
+* each of the following required in both houses for congress to overrde a presidential veto except a dicharge petition
+* In the senate a filibuster can be ended by invoking cloture
+* Which of the following is true: the presiding leader of the house considrered to have much more power than the leader of the senate
+* One type of ad hoc committe that is used to work out the differences in a bill passed in the house and the senate is the conference committee.
+* Factors taking into consideration when assigning a congressman his or her committee: Seniority and Const
+* In order for a treaty or a supreme court judge to be approved for office which of the following must occur: The senate must approve.
+* In which article of the constitution is congress disussed: Article 1
+
+
+
+
+
+
+

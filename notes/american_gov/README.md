@@ -1,4 +1,3 @@
-
 # American Government
 
 ::: warning <Icons-Warning/> Warning
@@ -12,7 +11,7 @@ I sit closest to the projector screen place thingy.
 ### Midterm Questions
 <Foldable>
 
-::: danger Warning
+::: danger Wait!
 This is outdated material
 :::
 

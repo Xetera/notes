@@ -122,6 +122,7 @@ Two main blocks, liberal and conservative.
 
 **Conservatives:** Gorsuch, Roberts, Javanaugh, Thomas, Alito
 
+
 **Liberals:** Breyer, Sotomayor, Kagan, Ginsberg
 
 They write their opinions on the cases.
@@ -220,3 +221,15 @@ General and elite. If the public and elites are not in favor of a given issue, t
 Court will not try to decide a case which may be so controversial that no matter how they decide the class, their decision will divide the nation. A case that would out-law abortion would be an example of such a case.
 
 They also won't hear cases that are viewed to be too political - associated with a political party, a specific politician or candidate, or a specific political ideology. **The Supreme Court tries to be "above" politics and wants ot be kept out of the "political thickets".**
+
+### <Icons-Star/> Quiz Questions
+* One measure of the policy making role of the supreme court is the frequency with which it departes from starre decisis.
+* What are the minimum number of judges needed to agree to hear a case: 4
+* Who is chief justice of the supreme court: Roberts (look up who this is, I don't know what it is)
+* Which article of the constitution establishes the supreme court: 3
+* The function of the US solicitor general is to approve of every case the federal government presents to the surpreme court.
+* Who appoints judges to the supreme court should a vacancy arrive: The President
+* A case on appeal reaches the surpreme court via a writ of certiriariair (I don't know how to spell this)
+* The court's chief weapon in checks and balances is the judicial review it exercises.
+* A judge can be both an activist and a conservative.
+

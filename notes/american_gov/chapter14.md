@@ -316,3 +316,15 @@ Sincerely, <br> The guy who has a C in the class
 
 #### <Icons-Book/> Issue politics
 People voting for candidates because of their stances on issues or issues that are with the candidate, most commonly a single issue.
+
+### Quiz Questions
+* The powers of the presidency established in: Article 2
+* Which of the following is not an area the president power has grown: Power to veto legislation
+* Which of the following does the president do in his role as chief diplomat: He makes treaties
+* One source for the expansion of the presidential power has been: His role in foreign affairs
+* Which of the following departments has a member in the president's cabinet: The department of budget
+* According to James Barber's personality classification, the president's most preferred personality type is Active Positive.
+* Which of the following is not a duty of the president: Chief of Protocol
+* Which of the following is not an attribute of a strong president: has a passive negative personality.
+
+

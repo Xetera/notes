@@ -38,8 +38,6 @@ Congress cannot make a law prohibiting the free exercise of a religion.
 ## Engel v Vitale (1962)
 There may not be any kind of prayer, even nondenominational ones in a public school.
 
-<br>
-
 ::: warning <Icons-Warning/> Warning
 Your book discusses several other Freedom of Religion cases that you should become familiar with.
 :::
@@ -306,6 +304,24 @@ Courts have ruled favorably on sexual harassment.
 5. Continue the #metoo movement despite the Kavanaugh **huge** setback and lack of support of the movement.
 6. Comparable worth - jobs that require equal levels of skill and knowledge should be paid the same. Secretary does the same amount of work and has the same knowledge as an accountant - should get the same.
 
-## <Icons-Bomb/> Discussion Questions
-
-something here
+### Quiz Questions
+* The 14th amendment guarantees rights for the blacks.
+* All of the following are associated with MLK Jr. except for the riots in chicago.
+* Malcom X advocated violance.
+* Name given to the series of laws that prevented blacks from voting: Jim Crow Laws.
+* Emancipation Proclamation freed slaves.
+* Not all women support the feminist movement.
+* Women had to deal with laws that were seen to be protecting them.
+* 19th amendment made sure that states cannot deny the right to vote based on sex.
+* Status of women changed when they were being hired in world war 2.
+* Congress responded to the feminist movement by passing laws that prohibited discrimination in the basis of gender for employment and education that receives federal funds.
+* The espionage and sedition acts were examples of the effect of war on civil liberties.
+* Written defamation is libel.
+* It is much harder to win a libel suit if you are a famous person.
+* The two clauses of the first amendment is that deal with religion are concerned with free exercise and establishment.
+* If you have been arrested the police can't search your parked car in the driveway without a warrant.
+* Civil liberties are individual rights protected by law from unjust governmental or other interference.
+* Angel vs. Vittal: Prayer in public schools are not allowed. 
+* Mapp vs. Ohio: Evidence illegally gathered by the police may not be used in a criminal trial.
+* Citizens United vs. Federal Elections Commission set the tone for government intervention in political fundraising.
+* USA Patriot act was designed to increase federal power to investigate terrorists.
