@@ -306,9 +306,6 @@ Courts have ruled favorably on sexual harassment.
 5. Continue the #metoo movement despite the Kavanaugh **huge** setback and lack of support of the movement.
 6. Comparable worth - jobs that require equal levels of skill and knowledge should be paid the same. Secretary does the same amount of work and has the same knowledge as an accountant - should get the same.
 
-## <span class="fas fa-star icon"></span> Discussion Questions
+## <Icons-Bomb/> Discussion Questions
 
-<br>
-
-> [!DANGER]
-> 
+something here

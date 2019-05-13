@@ -46,10 +46,8 @@ President usually nominates someone from his own party who shares his same views
 
 Each year about 80 cases are heart by the Supreme Court. The Supreme Court session always starts the first Monday in October and lasts usually through end of June.
 
-## <span class="fas fa-star icon"></span> Final Question
-
-> [!DANGER]
-> Discuss how the Supreme Court works on a case. Please discuss the two ways a case gets to the Supreme Court, what takes place while the Court is hearing the case, how the vote is taken, and finally the different types of opinions the Court may publish. Also discuss what "setting precedent" and "state decisis" mean.
+## <Icons-Bomb/> Final Question
+Discuss how the Supreme Court works on a case. Please discuss the two ways a case gets to the Supreme Court, what takes place while the Court is hearing the case, how the vote is taken, and finally the different types of opinions the Court may publish. Also discuss what "setting precedent" and "state decisis" mean.
 
 ### Original Jurisdiction
 Court *must* hear original jurisdictions because there's no other court for them.
@@ -66,13 +64,10 @@ Cases that raise on appeal.
 
 Cases heart on appeal from either state Supreme Courts or US circuit court of appeals or from a Special court if it involves a matter of constitutionality. Supreme Court's of jurisdiction in this areas can be regulated by Congress.
 
-<br>
-
-> [!COMMENT]
-> * Congress can change the types of cases that the Supreme Court can hear.
-> * Supreme court can get to pick and choose what cases they want to hear on appeal, but **not** original jurisdictions.
-
-<br>
+::: tip Note
+* Congress can change the types of cases that the Supreme Court can hear.
+* Supreme court can get to pick and choose what cases they want to hear on appeal, but **not** original jurisdictions.
+:::
 
 Petition of Writ of Certiorari (pronounced shersherorii) is given to the court (costs $300 - but if you can't afford it you can file a in forma pauperis for free and have your case heart) - this is the act by which the losing party in a lower court case appeals to the Supreme Court to hear the case to make the facts "more certain".
 
@@ -144,11 +139,11 @@ If Chief Justice is in the majority, he will either write the opinion or assign 
 
 (There was a big paragraph about how the dissenting opinion help changed the views on segregation at some point but it was way too long to type, sorry)
 
-### <i class="fas fa-book icon"></i> Stare decisis
+### <Icons-Book/> Stare decisis
 "Let the decision stand" means for the court to look to previous cases to look decide. It will look to previous cases to look decide. It will rule on current case how it has ruled in the past on similar cases. The way of interpreting the Constitution doesn't change when the court practices _stare decisis_.
 
 
-### <i class="fas fa-book icon"></i> Set precedent
+### <Icons-Book/> Set precedent
 Means court has changed its mind with regard to past rulings and rules in a new and different way. The court has re-interpreted the Constitution in a new way and as a result, new policy is created.
 
 ## Judicial Power to Make Policy
@@ -160,13 +155,9 @@ But now, our Supreme Court has the powers to make broad policy due to the follow
 * Courts have the right to declare acts and laws unconstitutional. Marbury v. Madison in 1803 under Chief Justice Marshall in the 19th century, established judicial review, declared that courts could reinterpret past cases and declare them unconstitutional.
 * England's courts and most courts in the world don't have this right.
 
-## <span class="fas fa-star icon"></span> Discussion Question
+## <Icons-Bomb/> Discussion Question
 
-<br>
-
-> [!DANGER]
->
-> Discuss the merits of a judicially activist ([living constitution](#-living-constitution)) vs. a judicially constructionist ([judicial originalism](#-judicial-originalism) also called judicial restraint) interpretation of Constitution. Which view do you support?
+Discuss the merits of a judicially activist ([living constitution](#-living-constitution)) vs. a judicially constructionist ([judicial originalism](#-judicial-originalism) also called judicial restraint) interpretation of Constitution. Which view do you support?
 
 ### Judicial Activism
 
@@ -181,7 +172,7 @@ Living Constitution interpretation - The opposite of judicial originalism is to 
 Under a living constitution - judicial activism can take place - whether it is liberal judicial activism or conservative judicial activism. Remember how we said earlier that judicial activism is a way judges make policy.
 
 
-#### <i class="fas fa-book icon"></i> Living constitution
+#### <Icons-Book/> Living constitution
 The essence of the meaning of the constitution should be interpreted with today's society's beliefs as opposed to the literal meaning.
 
 ##### Criticism 
@@ -190,7 +181,7 @@ The people enforcing the law lack expertise to make the law and they are not acc
 ##### Retort
 Even if judges to practice judicial activism, they don't have the power to enforce the laws. The local city and state police departments do this. If they don't like the Supreme Court's ruling, they may choose to not support it.
 
-#### <i class="fas fa-book icon"></i> Judicial originalism
+#### <Icons-Book/> Judicial originalism
 A conservative interpretation of the law, interpret Constitution according to the letter of the law . Judges should confine themselves to applying those rules that are stated in or clearly implied by - the language of the Constitution. They should search for the **original** intent of the founders of the Constitution and not interpret the Constitution to today's standards and beliefs.
 
 ## Congress

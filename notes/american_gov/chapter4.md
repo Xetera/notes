@@ -268,8 +268,9 @@ Committee and subcommittee chairmen will be members of the majority party.
   * Congressman's constituency - where they're from
 
 
-> [!NOTE]
-> The rules committee is the most powerful committee.
+::: tip 
+The rules committee is the most powerful committee.
+:::
 
 #### Different Types of Committees
 * **Standing committees** - permanent committees. The only committees that can research a bill.

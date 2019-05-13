@@ -42,8 +42,9 @@ Executive agreements enable the president to sign a document that has the force 
 ## Executive Orders
 The president makes law (without Congress) - ex. Bush ruled that stem cells could not be used for research, ruled that oil drilling could be done in an environmentally sensitive area of Utah, anti-war protesters could be tried as criminals.
 
-> [!COMMENT]
-> Executive agreements passed by previous previous presidents have always been honored but not executive orders.
+::: tip 
+Executive agreements passed by previous previous presidents have always been honored but not executive orders.
+:::
 
 Powerful presidents and crises have brought more power to the presidency.
 
@@ -144,12 +145,8 @@ Most of these appointments must be confirmed by the senate
 Some of the heads of these agencies can be removed at any time by the president - others are for a fixed term.
 
 
-## <span class="fas fa-star icon" style="color: crimson"></span> Essay Question
-
-<br>
-
-> [!DANGER]
-> What are the different roles of the president? Which roles in your opinion is Trump successful in performing? Which roles in your opinion is Trump not successful in performing?
+## <Icons-Bomb/> Essay Question
+What are the different roles of the president? Which roles in your opinion is Trump successful in performing? Which roles in your opinion is Trump not successful in performing?
 
 ## Roles of the President
 
@@ -161,17 +158,20 @@ Some of the heads of these agencies can be removed at any time by the president 
 
 <br>
 
-> [!COMMENT]
-> Comparison: **Obama**
->
-> * Went to meetings on time.
-> * Demanted perfection from his cabinet.
-> * Thorough in researching things before making decisions.
-> * Well-thought out reports with all the details.
-> * Had a strong stance on diplomacy. "We are not at war with muslims"
-> * Actually listened to his chief of staff and advisors.
->
-> _He was also not previously experienced in foreign policy though._
+<Foldable>
+
+Comparison: **Obama**
+
+* Went to meetings on time.
+* Demanted perfection from his cabinet.
+* Thorough in researching things before making decisions.
+* Well-thought out reports with all the details.
+* Had a strong stance on diplomacy. "We are not at war with muslims"
+* Actually listened to his chief of staff and advisors.
+
+_He was also not previously experienced in foreign policy though._
+
+</Foldable>
 
 ### Chief Diplomat
 * Represents the nation abroad.
@@ -180,10 +180,10 @@ Some of the heads of these agencies can be removed at any time by the president 
 * Executive agreements.
 * Can recognize or not recognize other nations ([de jure](#-de-jure) and [de facto](#-de-facto) recognition).
 
-#### <i class="fas fa-book icon"></i> De jure
+#### <Icons-Book/> De jure
 Legal recognition, exchanging ambassadors between countries.
 
-#### <i class="fas fa-book icon"></i> De facto
+#### <Icons-Book/> De facto
 Unofficial recognition, free travel and trade but not legally and without ambassadors.
 
 Trump not so big on diplomacy - his 2019 budget proposes to cut the State Department's budget by nearly 30%!
@@ -197,9 +197,9 @@ Trump not so big on diplomacy - his 2019 budget proposes to cut the State Depart
 * Appoint military officials.
 * Initiate war.
 
-> [!COMMENT]
->
-> When Trump came into power his ability to deploy nukes without permission were limited in order to prevent disasters. <sup>(I don't know if this is true... I can't find any sources but ok)</sup>
+::: tip Note
+When Trump came into power his ability to deploy nukes without permission were limited in order to prevent disasters. <sup>(I don't know if this is true... I can't find any sources but ok)</sup>
+::: 
 
 ### Chief Legislator
 Strong presidents get Congress to pass bills that they support. They tell Congress what they view to be important through:
@@ -252,11 +252,11 @@ View on presidents are generally based on their ability to get things down and p
 
 James Barber (a political psychologists) classification
 
-> [!NOTE]
->
-> Briggs myers is not a real way to measure personality, it wasn't even developed by real scientists.
->
-> _Sorry I'm very passionate about this and she mentioned it in class, fuck briggs myers_
+::: warning <Icons-Warning/> Warning
+Briggs myers is not a real way to measure personality, it wasn't even developed by real scientists.
+
+_Sorry I'm very passionate about this and she mentioned it in class, fuck briggs myers_
+:::
 
 - Active, passive - how involves president is in affairs? Does he take charge or do his advisors do most of the work?
 - Positive, negative - does the president enjoy what he is doing, or does he do it under a sense of obligation.
@@ -274,22 +274,17 @@ Dutiful but vague, bent on avoiding conflict. Examples: Eisenhower, Washington, 
 #### Passive, Positive
 Compliant, seeks acceptance. Examples: Reagan
 
-## <span class="fas fa-star icon" style="color: crimson"></span> Final Question
-
-<br>
-
-> [!DANGER]
->
-> Discuss the reasons why there recently seem to be a lack of good presidents. What can be done to remedy this problem?
+## <Icons-Bomb/> Final Question
+Discuss the reasons why there recently seem to be a lack of good presidents. What can be done to remedy this problem?
 
 ## Where did all the good presidents go?
 In the past the presidents were bigger than life and believed to be all powerful men who could forcefully control the country. Now presidents aren't held in such a high esteem until the election of President Obama - why?
 
-> [!TIP]
->
-> **Speculation:** This is almost certainly going to be an exam question, study it.
->
-> Sincerely, <br> The guy who has a C in the class
+::: tip
+**Speculation:** This is almost certainly going to be an exam question, study it.
+
+Sincerely, <br> The guy who has a C in the class
+:::
 
 
 ### 3 Reasons 
@@ -297,7 +292,7 @@ In the past the presidents were bigger than life and believed to be all powerful
   * President is separated from the workings of govt. in that he is often of a different party than the majorty in the Congress. Hard to influence policy if Congress is not of his party.
   * There weren't many parties back in the day, there was less separation (well, other than the south and north).
   * The first couple of presidents did not try to influence the politics of the congress.
-  * Party politics have declined and [issue politics](#-issue-politics) are more important.
+  * Party politics have declined and [issue politics](#issue-politics) are more important.
   * Harder for the president to get people to support him or rally people together on the basis of his party.
   * Nationalization of politics and society -  now the public knows all the news and every move by the president will be scrutinized by the public.
   * The relative decline of American Economic and Political power - as the US economy continues to decline, president has less money to play around with and may not pursue all the policies that he wishes to.
@@ -319,5 +314,5 @@ In the past the presidents were bigger than life and believed to be all powerful
 3. Different and inappropriate office types have occupied the office of the presidency.
   * James Barbers' classification active - negative and positive rather than the best, which is active positive.
 
-#### <i class="fas fa-book icon"></i> Issue politics
+#### <Icons-Book/> Issue politics
 People voting for candidates because of their stances on issues or issues that are with the candidate, most commonly a single issue.
