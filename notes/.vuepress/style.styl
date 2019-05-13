@@ -3,16 +3,23 @@ $red = #de3636
 $green = #3eaf7c
 $warningYellow = #e7c000
 
-.yuu-theme-dark .dialogue {
-  color: #68297d
-}
+.yellow
+  color: $warningYellow
 
-.yuu-theme-red .icon
+.red
+  color: $red
+
+.yuu-theme-red .adaptive
   color: $red !important
-.yuu-theme-blue .icon
+
+.yuu-theme-blue .adaptive
   color: $blue !important
-.icon
+
+.adaptive
   color: $green !important
+
+.icon, .adaptive
+  margin-right: 5px
 
 .yuu-theme-dark .custom-block
   .custom-block-title
@@ -26,4 +33,16 @@ $warningYellow = #e7c000
   background-color: #f3f5f7 !important
   color: #2c3e50 !important
   border-radius: 4px
+
+.vue-foldable-container
+  transition: max-height 0.3s
+
+.vue-foldable-mask
+  transition: opacity 3s
+
+.home .chapter-container:nth-child(even)
+  flex-direction: row-reverse
+
+.home .chapter-container:nth-child(odd)
+  flex-direction: row
 

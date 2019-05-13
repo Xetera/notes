@@ -1,3 +1,3 @@
 <template>
-  <i class="fas fa-book icon"></i>
+  <i class="fas fa-book adaptive"></i>
 </template>

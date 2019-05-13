@@ -3,35 +3,34 @@ home: true
 heroImage: /media/icon.png
 actionText: Jump to Notes →
 actionLink: /american_gov/
-footer: Made with ❤ and vuepress
+footer: Made with ❤ and VuePress
+pageClass: home
+features:
+  - title: Clean presentation
+    details: I worked really hard to get this to look good, okay, if only I put this much effort into actually learning the material...
+  - title: Complete information
+    details: I type at 115+ words-per-minute so all the information here is up to speed with the slides and lectures!
+  - title: Regularly updated
+    details: I try to update this website while taking notes in class, so everything should be up-to-date.
 ---
 
-# Welcome To My Lair
+# Classes
 
-Hey there, I'm a computer science student and a very experienced slacker 
-so I decided to take some notes during class to help myself stay 
-motivated to keep coming to class regularly.
+<Subject 
+  name="American Government"
+  description="A class covering the basics of government like how bills are passed and why Trump sucks."
+  image="/media/government.jpg"
+  instructor="D. Chang"
+  startDate="March 25, 2019"
+  endDate="May 22, 2019"
+  at="/american_gov/"
+/>
 
-Good luck with the studying!
-
-![gottaworkhard](https://i.imgur.com/AoMPIyV.gif?noredirect)
-
-[Jump to notes](/american_gov/)
-
-<p onclick="trigger.prompt()" style="text-decoration: underline; cursor: pointer;">
-  Add me to your homepage!
-</p>
-
-<p style="font-size: 12px">Adding to homepage might not work on desktop.</p>
-
-#### FAQ
-
-<br>
-
-Why is the website not updated with the notes from last class? REEEEEEEE
-
-**Answer**: Sometimes the website doesn't refresh properly, make sure you've refreshed manually!
-
-**Answer 2**: Sometimes I'm lazy.
-
-<p style="font-size: 12px">If you're a dev, this is a problem with the service worker and I don't know how to fix it. If you know why this happens, submit a pr on github 😩</p>
+<Subject 
+  name="???"
+  instructor="?. ????"
+  image="/media/study.gif"
+  description="More notes coming when I can be bothered to take them."
+  endDate="Future++"
+  startDate="Future+"
+/>

@@ -1,6 +1,5 @@
-# American Government
 
-Click on the links on the side to get started
+# American Government
 
 ::: warning <Icons-Warning/> Warning
 These notes are not complete, but they should accurately reflect
@@ -11,6 +10,12 @@ I sit closest to the projector screen place thingy.
 :::
 
 ### Midterm Questions
+<Foldable>
+
+::: danger Warning
+This is outdated material
+:::
+
 * Chapter 1
   * [What is an Elite?](/american_gov/chapter1.md?id=midterm-question)
   * [Political Culture](/american_gov/chapter1?id=midterm-essay-question)
@@ -19,6 +24,13 @@ I sit closest to the projector screen place thingy.
 * Chapter 3
   * [Advantages of Federalism](/american_gov/chapter3?id=midterm-question)
   * [Different Government Grants](/american_gov/chapter3?id=midterm-question-1)
+
+</Foldable>
+
+### Final Questions
+* Chapter 13
+  * [House of Representatives vs Senate](/american_gov/chapter4.md#essay-question)
+  * [How bills become law](/american_gov/chapter4.md#essay-question-2)
 
 ### Helpful Links
 * [Link to Textbook](https://drive.google.com/open?id=1Yhw1qaFDaAW8u4kMeWqtG5rluSPYjJQg)

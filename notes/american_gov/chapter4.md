@@ -18,13 +18,8 @@ No other country but the US can investigate a president during their presidency.
 :::
 
 
-## <span class="fas fa-star icon"></span> Essay Questions
-
-<br>
-
-::: danger Important
+### <Icons-Bomb/> Essay Question
 Discuss all the differences between the House of Representatives and The Senate.
-:::
 
 ### Structures of Congress
 
@@ -52,39 +47,37 @@ Each senator is more powerful than a representative.
     * Incumbents get all the interest group money.
   * Only if there is a major crisis or a scandal.
 
-## Types of Voting in Congress
-
-### <span class="fas fa-star icon" style="color: crimson"></span> Essay Question #4
-
-<br>
-
-> [!DANGER]
-> What are the differences between house and senate?
-> 
-
 ## House
 
-> [!WARNING|label:NOT ON THE EXAM]
-> ### Types of votes
-> #### Division Vote
-> - Recorded
->
-> People stand up to 
-> 
-> #### Voice
-> - not recorded, anonymous
->
-> most common, if there is doubt who won, then a more specific type of vote can take place if a member requests it.
->
-> #### Teller
-> - recorded, anonymous
-> 
-> Voting through a machine that tallies the people in favor and against the bill
-> 
-> #### Roll-Call
-> - recorded, anonymous
->
-> Must personally identify the way in which congressman vote.
+<Foldable>
+  
+::: warning <Icons-Warning/> Not on the exam
+
+### Types of votes
+
+#### Division Vote
+* Recorded
+
+People stand up to 
+
+#### Voice
+* not recorded, anonymous
+
+most common, if there is doubt who won, then a more specific type of vote can take place if a member requests it.
+
+#### Teller
+* recorded, anonymous
+
+Voting through a machine that tallies the people in favor and against the bill
+
+#### Roll-Call
+* recorded, anonymous
+
+:::
+
+</Foldable>
+
+Must personally identify the way in which congressman vote.
 
 ### How Congressmen Vote
 * Are they from a safe or unsafe district?
@@ -98,8 +91,9 @@ Delegate representatives is how congressmen from unsafe districts vote. The cong
 #### Organizational View
 The organization votes through the agreement of an organization. Ex: Republicans voting against every bill Obama wants to pass.
 
-> [!NOTE]
-> The organizational view currently no longer seems to be working because the republicans do not want to work with Trump.
+::: tip <Icons-Note/> Note
+The organizational view currently no longer seems to be working because the republicans do not want to work with Trump.
+:::
 
 ### US Congress vs Parliament
 #### Differences
@@ -132,12 +126,11 @@ The Policy committee of each party - gives senators their assignments.
 
 ### Senate Organization
 
-<br>
+::: danger <Icons-Bomb/> Important
+You have to have this memorized!
 
-> [!DANGER]
-> You have to have this memorized!
->
-> _Don't worry, this is the updated syllabus version_
+_Don't worry, this is the updated syllabus version_
+:::
 
 | Position                    | In Power                                          |
 | -                           |                                                 - | 
@@ -173,10 +166,9 @@ Is extremely powerful and partisan, gets to decide:
 
 ### House Organization
 
-<br>
-
-> [!DANGER]
-> You have to have this memorized as well!
+::: danger
+You have to have this memorized as well!
+:::
 
 | Position                 |                                       In Power |
 | -                        |                                              - |
@@ -210,12 +202,8 @@ Chairmen of the other committees - Democrat
 
 ### How  Bill Becomes Law
 
-#### <span class="fas fa-star" style="color: crimson"></span> Essay Question
-
-<br>
-
-> [!DANGER]
-> Discuss how a bill becomes law, discuss the points of death and discuss how the public influences the bill.
+#### <Icons-Bomb/> Essay Question
+Discuss how a bill becomes law, discuss the points of death and discuss how the public influences the bill.
 
 ![Passing a Law](/media/bill.gif)
 
@@ -232,7 +220,7 @@ Most bills die in Congress and never become law.
 * If the committee likes the bill they can markup the bill (making it presentable as a legal document).
 * Subcommittee can vote to recommend or not recommend the bill, if it's not recommended, it doesn't pass.
 
-#### <i class="fas fa-book icon"></i> Quorum
+#### <Icons-Book/> Quorum
 The minimum number of members of an assembly that must be present at any of its meetings to make the proceedings of that meeting valid.
 
 218 house members must be present for the vote to take place.
@@ -261,8 +249,9 @@ If congress is not in session in 10 days and the bill hasn't been signed, it's a
 * Veto the bill - it is not law unless Congress can over-ride the veto with 2/3rds in each house.
 * Do nothing and if Congress adjourns before the 10 days are up, it is a pocket veto.
 
-> [!COMMENT]
-> It's fairly common to make quorum... unless there are extraordinary circumstances.
+::: tip <Icons-Lecture/> Lecture
+It's fairly common to make quorum... unless there are extraordinary circumstances.
+:::
 
 ### Facts about Committees
 House and Senate have similar committees because they both have to look at similar bills.

@@ -1,3 +1,3 @@
 <template>
-  <i class="fas fa-speech icon"></i>
+  <i class="fas fa-comment adaptive"></i>
 </template>

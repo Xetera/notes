@@ -2,9 +2,11 @@ module.exports = {
   title: "Ali's Notes",
   description: "My notes for classes I try not to sleep in",
   ga: "UA-133545986-4",
+  dest: "dist",
   head: [
     ['link', { rel: "stylesheet", href: "https://use.fontawesome.com/releases/v5.8.2/css/all.css" }],
     ['link', { rel: 'icon', href: '/media/icon.png' }],
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#42b983' }],
     ['meta', { name: 'twitter:card', content: 'summary' }],
     ['meta', { name: 'og:title', content: "Ali's notes" }],
@@ -13,16 +15,7 @@ module.exports = {
     ['meta', { name: 'og:url', content: 'https://notes.hifumi.io' }],
     ['meta', { name: 'og:locale', content: 'en_US' }],
   ],
-  plugins: {
-    '@vuepress/pwa': {
-      serviceWorker: true
-    },
-    'container': {
-      type: 'theorem',
-      before: info => `<div class="theorem"><p class="title">${info}</p>`,
-      after: '</div>',
-    },
-  },
+  serviceWorker: true,
   theme: 'yuu',
   themeConfig: {
     repo: "xetera/notes",
@@ -36,12 +29,9 @@ module.exports = {
       text: "Home",
       link: "/"
     }, {
-      text: "Notes",
-      link: "/notes/"
-    },  {
       text: "About me",
       link: "/about_me"
-    },{
+    }, {
       text: "My GitHub",
       link: "https://github.com/xetera"
     }],

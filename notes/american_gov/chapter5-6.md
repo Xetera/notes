@@ -9,16 +9,14 @@ Civil Rights are laws and policies passed by the government to ensure that every
 
 The whole history of civil rights is about minorities fighting for rights that are Constitutionally granted to them but are denied to them by society.
 
-## <span class="fas fa-star icon"></span> Final Question
-
-> [!DANGER]
->
-> Define civil liberties and civil rights and explain the difference between the two. Explain the role that government can play in the enforcement and/or protection of civil liberties and civil rights. What is the basis for civil liberties and civil rights in the Constitution? Support your response by giving at least one example of a civil liberty and civil right.
+::: danger <Icons-Bomb/> Final Question
+Define civil liberties and civil rights and explain the difference between the two. Explain the role that government can play in the enforcement and/or protection of civil liberties and civil rights. What is the basis for civil liberties and civil rights in the Constitution? Support your response by giving at least one example of a civil liberty and civil right.
+:::
 
 #  Civil Liberties
 
-> ## <i class="fas fa-book icon"></i> Civil Liberties
-> Rights given by the government that cannot be infringed upon. Rights to be free of government interference. The rights discussed in the US Bill of Rights' rights are all civil liberties. They each discuss the right of the individual.
+## <Icons-Book/> Civil Liberties
+Rights given by the government that cannot be infringed upon. Rights to be free of government interference. The rights discussed in the US Bill of Rights' rights are all civil liberties. They each discuss the right of the individual.
 
 The Federal Courts or national government decide to what extent people have civil liberties when they hear court cases about civil liberties.
 
@@ -42,8 +40,9 @@ There may not be any kind of prayer, even nondenominational ones in a public sch
 
 <br>
 
-> [!WARNING]
-> Your book discusses several other Freedom of Religion cases that you should become familiar with.
+::: warning <Icons-Warning/> Warning
+Your book discusses several other Freedom of Religion cases that you should become familiar with.
+:::
 
 ## Crime and Due Process
 
@@ -54,8 +53,9 @@ Evidence illegally gathered by the police may not be used ina criminal trial.
 Police must give a warning to arrested person that they have the right to remain silent and the right to a lawyer.
 
 # Civil Rights
-> ## <i class="fas fa-book icon"></i> Civil Rights
-> Civil rights are policies enforced by the government to ensure that there is equality among the people in realizing their civil rights. The purpose of civil rights legislation is to try to prevent or at least limit discrimination against people based on sex, race, or beliefs.
+
+## <Icons-Book/> Civil Rights
+Civil rights are policies enforced by the government to ensure that there is equality among the people in realizing their civil rights. The purpose of civil rights legislation is to try to prevent or at least limit discrimination against people based on sex, race, or beliefs.
 
 ## Black Civil Rights Movement
 Movement that gained not only blacks, but all minorities more rights.
@@ -125,8 +125,8 @@ Urban League organized in 1911 organized by whites to improve the living conditi
 
 Armed forces desegregated in 1948 by
 
-> ### <i class="fas fa-book icon"></i> Redlining
-> Real estate were segregated by race indirectly, forcing colored people to be segregated into their own communities despite being able to afford housing in primarily-white neighborhoods.
+### <Icons-Book/> Redlining
+Real estate were segregated by race indirectly, forcing colored people to be segregated into their own communities despite being able to afford housing in primarily-white neighborhoods.
 
 ### Integration Period
 
@@ -209,7 +209,7 @@ Backward slide in *all* areas - worse backward anti-civil rights trend in US. hi
 ### Closing Remarks
 Race relations on the decline. In the past whenever economy is in a downturn, racist movements start springing up and racism becomes more blatant. But now unemployment is very low, the economy is booming and racism is much more open now than ever before? Why? Due to Trump. The president sets the moral tone of the country.
 
-<i style="font-size: 11px">I love how we spend every class shitting on this guy lmao</i>
+*I love how we spend every class shitting on this guy lmao*
 
 Rise in racism especially among poor, uneducated whites and the very wealthy
 
@@ -273,8 +273,9 @@ Geraldine Ferraro - Vice President running candidate of Mondale, Condoleeza Rice
 
 <br>
 
-> [!COMMENT]
-> Employers are now not allowed to deny women a job because they might get pregnant.
+::: tip <Icons-Lecture/> Lecture
+Employers are now not allowed to deny women a job because they might get pregnant.
+:::
 
 ### Turning back the clock
 Reagan and George W. Bush came out strong against abortion - pushed for legislation making abortion a crime unless the woman was raped or it was incest.

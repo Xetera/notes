@@ -4,14 +4,16 @@
   "description": "This is where I keep all my notes!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev notes",
+    "build": "vuepress build notes"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Xetera/notes.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Xetera",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Xetera/notes/issues"
@@ -19,7 +21,12 @@
   "homepage": "https://github.com/Xetera/notes#readme",
   "dependencies": {
     "@vuepress/plugin-pwa": "^1.0.0-alpha.0",
+    "@vuepress/plugin-register-components": "^1.0.0-alpha.0",
+    "vue-foldable": "^1.0.0",
+    "vuepress": "^0.14.11",
     "vuepress-plugin-container": "^2.0.1",
+    "vuepress-plugin-nprogress": "^1.0.0",
+    "vuepress-plugin-reading-time": "^0.1.1",
     "vuepress-theme-dark-new": "^0.1.2",
     "vuepress-theme-yuu": "^1.0.0"
   }
