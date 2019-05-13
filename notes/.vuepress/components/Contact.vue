@@ -1,16 +1,16 @@
 <template>
   <div class="container">
     <div class="contact">
-      <i class="fab fa-discord adaptive" style="font-size: 28px; margin-right: 10px"></i> Xetera#0001
+      <i class="fab fa-discord adaptive contact-button"></i> Xetera#0001
     </div>
 
     <div class="contact">
-      <i class="fab fa-line adaptive" style="font-size: 28px"></i>
+      <i class="fab fa-line adaptive contact-button" style="font-size: 28px"></i>
       xetera
     </div>
 
     <div class="contact">
-      <i class="fas fa-globe-americas adaptive" style="font-size: 28px"></i> IRL
+      <i class="fas fa-globe-americas adaptive contact-button" style="font-size: 28px"></i> IRL
     </div>
   </div>
 </template>
@@ -18,11 +18,16 @@
 <style lang="stylus">
   @media screen and (max-width: 767px) {
     .container {
-      grid-template-columns  1fr 1fr
+      grid-template-columns 1fr 1fr
       grid-template-rows auto
       flex-direction: column !important;
     }
   }
+
+  .contact-button
+    font-size: 28px
+    margin-right: 10px !important
+
   .container
     display: grid;
     grid-template-rows 1fr
