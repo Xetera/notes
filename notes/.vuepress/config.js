@@ -15,9 +15,12 @@ module.exports = {
     ['meta', { name: 'og:url', content: 'https://notes.hifumi.io' }],
     ['meta', { name: 'og:locale', content: 'en_US' }],
   ],
-  serviceWorker: true,
   theme: 'yuu',
+  serviceWorker: true,
   themeConfig: {
+    serviceWorker: {
+        updatePopup: true
+    },
     repo: "xetera/notes",
     repoLabel: "Add your own notes!",
     editLinks: true,
@@ -35,7 +38,7 @@ module.exports = {
       text: "My GitHub",
       link: "https://github.com/xetera"
     }],
-    sidebarDepth: 10,
+    sidebarDepth: 6,
     sidebar: {
       '/american_gov/': [{
         title: "American Government",

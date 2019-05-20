@@ -233,3 +233,26 @@ They also won't hear cases that are viewed to be too political - associated with
 * The court's chief weapon in checks and balances is the judicial review it exercises.
 * A judge can be both an activist and a conservative.
 
+### Final Review
+Discuss how the SUpreme Court works on a case. Please discuss the two ways a case gets to the Supreme Court, what takes place while the Court is hearing the case, how the vote is taken, and finally the different types of opinions the Court may publish. Also discuss what "setting precedent" and "stare decisis" mean.
+
+1. Discuss original jurisdiction cases
+2. Discuss [apellate jurisdictions](#apellate-jurisdictions) cases
+* Discuss Writ of Certiorari
+* Discuss all the criteria that a court looks for in a case the more of this criteria a case meets, the more likely the court will hear the case. At least 3 judges must agree to hear the case.
+* Discuss difficulty getting to Court
+3. Discuss how the SC works on a case
+4. Discuss how it votes
+5. Discuss different types of opinions and importance of even dissenting opinions
+6. Define [Stare decisis](#stare-decisis) and setting precedent and use examples.
+
+Discuss the merits of a judicially activist ([Living Constitution](#living-constitution)) vs a judicially constructionist ([Judicial Originalism](#judicial-originalism)) also called judicial restraint) interpretation of Constituion. Which view do you support?
+
+1. Discuss what is meant by a Living Constitution. view and how this can lead to judicial activism.
+2. Discuss what is meant by a judicially constructionist view.
+3. Discuss which view you support and why.
+
+
+
+
+

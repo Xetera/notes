@@ -325,3 +325,13 @@ Courts have ruled favorably on sexual harassment.
 * Mapp vs. Ohio: Evidence illegally gathered by the police may not be used in a criminal trial.
 * Citizens United vs. Federal Elections Commission set the tone for government intervention in political fundraising.
 * USA Patriot act was designed to increase federal power to investigate terrorists.
+
+### Final Review
+Define civil liberties and civil rights and explain the difference between the two. Explain the role that government can play in the enforcement and/or protection of civil liberties and civil rights. What is the basis for civil liverties and civil rights in the Constitution? Support your response by giving at least one example of a civil liverty and a civil right.
+
+1. Define Civil Liberty - human rights that people are born with and cannot be taken away by the government. The U.S. Bill of Rights on the Constitution discuss civil liberties. The Supreme Court can further define these rights by how they rule on cases.
+
+2. Define Civil Rights - Government action to ensure that everyone has the right to their civil liberties regardless of race, religion or creed. The 14th amendment of the Constitution - Equal Protection Clause establishes the fact that everyone should be guaranteed equal rights under the law. Talk about Civil Rights Acts and the various Supreme Court cases.
+
+3. Make sure that you talk about at least one civil liberty and one civil right to illustrate your point.
+

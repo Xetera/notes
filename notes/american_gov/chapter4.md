@@ -314,7 +314,7 @@ What are all of the differences between the House and the Senate? Discuss the le
 
 
 ### <Icons-Star/> Quiz Questions
-* Which of the following statements are true in terms of the number of representatives each house has in congress and their respective term lengths: *Standing committees**
+* Which of the following statements are true in terms of the number of representatives each house has in congress and their respective term lengths: *Standing committees*
 * Committes in congress have virtual power of life or death over every legislative matter.
 * Legislators who think of themselves as deleagtes are most likely to follow the wish of their constitutients closely.
 * Among the many powers of the house spakers is that he decides to which committess bills go.
@@ -330,6 +330,87 @@ What are all of the differences between the House and the Senate? Discuss the le
 * Factors taking into consideration when assigning a congressman his or her committee: Seniority and Const
 * In order for a treaty or a supreme court judge to be approved for office which of the following must occur: The senate must approve.
 * In which article of the constitution is congress disussed: Article 1
+
+
+### Final Review
+
+Discuss who can write the bill
+
+**Discuss the sponsorship of the bill**
+
+Starts in the house of whoever sponsors the bill
+
+**Discuss what happens at each step of the way on the chart on page 326 in my book "How a bill ebcomes law." At each step the bill could die**
+
+**Don't forget to mention that you need a quorum in each house for a vote to take place**
+
+**Discuss what the president can do to the bill**
+
+**Public influence - write the bill, ask to testify in front of committee that is researching the bill, write letters to Congressmen urging them to support or defeat the bill**
+
+
+**What the different types of committtees in Congress? What type of committee are the most powerful types of committees? What criteria is used to decide which committee a congressman will serve on? What functions do committees perform?** 
+
+**Discuss that the main purpose of Congress is lawmaking of all lawmaking work takes place in committee**
+
+**Discuss the importance of standing committees**
+
+**Discuss ad hoc (temporary) committees**
+
+Joint, Conference, Select
+
+**Criteria for congressmen to be put on a specific committee**
+
+* Type of district
+* Seniority
+
+**Function of committees**
+
+* Law making - most important function
+* Over-sight of the executive
+* Carry out investigation
+
+**Congress has failed to perform legislative oversight well - define what this means**
+
+Overseeing the executive branch.
+
+* War powers act 1973.
+  * Congress can recall US troops for a given time after deployment, a check on the president's power.
+* Establishment of a congressional Budget Office for each house
+  * Every year the president writes a budget and it gets checked by the congressional budget office and see if it passes or not.
+  
+**What are all the diffrences between the House and the Senate? Discuss the leadership positions of each house. How are the leadership positions determined? Which leadership position is the most powerful and why is it the most powerful?**
+
+
+1. House
+* 2 year term
+* 25 years old
+* Based on population
+* 435 
+* All money bills must start here
+
+Rules committee powerful
+* Lenght of debate - no more than 1 hour
+* If amendments can be added Open, closed, restrictive rule (explain each)
+* Type of vote on bill (discuss each type)
+
+
+Speaker of the house (name) Very powerful, discuss why?
+
+2. Senate
+* 6 year term
+* 30 years old
+* Based on equality
+* 100
+* Must approve of presidential appointments to Judiciary, Cabinet, ambassadors, and key government positions like GBI, CIA, etc.
+* Filibusters - discuss what it is and why it's important
+
+3. Discuss how people get their leadership positions in Congress, what they are and who occupies each position
+
+
+
+
+
 
 
 
