@@ -327,4 +327,33 @@ People voting for candidates because of their stances on issues or issues that a
 * Which of the following is not a duty of the president: Chief of Protocol
 * Which of the following is not an attribute of a strong president: has a passive negative personality.
 
+### Final Review
+
+As discussed in the lecture and a bit in the textbook, what are the different roles of the president? In you ropinion, which roles does President Trump do well in? Which roles does he need to improve in?
+
+1. Roles of the president
+* Chief Executive
+* Chief Diplomate
+* Commander In Chief
+* Economic Chief
+* Party Chief
+* Chief Legislator
+
+2. Discuss what functions the president must do in each of these roles
+
+3. Discuss in your opinion which roles Trump does well in and which roles he does not do well in
+
+As discussed in lecture and a bit in the book, discuss the reasons whu, until very recently, there seemed to be a lack of good presidents.
+
+1. Society has changed in such a way that it is almost impossible for a president to have complete control of the country - discuss all the ways that society has changed - please refer to lecture - this should be the largest part of your answer.
+
+2. The way that presidents are chosen is now incorrect - before the best man for the job was selected, now the man who looks the best on TV is selected.
+
+3. Different and inappropriate office types have occupied the office of the presidency recently.
+
+Talk about James Barber's characteristics thing
+
+
+
+
 
