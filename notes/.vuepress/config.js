@@ -3,6 +3,7 @@ module.exports = {
   description: "My notes for classes I try not to sleep in",
   ga: "UA-133545986-4",
   dest: "dist",
+  plugins: ["@vuepress/nprogress"],
   head: [
     ['link', { rel: "stylesheet", href: "https://use.fontawesome.com/releases/v5.8.2/css/all.css" }],
     ['link', { rel: 'icon', href: '/media/icon.png' }],

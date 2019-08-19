@@ -72,6 +72,7 @@
     .image-container {
       width: 100% !important
       height: 200px
+      overflow: hidden
     }
 
     .chapter-info {
@@ -112,14 +113,15 @@
     width: 100%
 
   .overlay
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0, transparent), to(rgba(0, 0, 0, .75)));
-    background: linear-gradient(180deg, transparent 0, rgba(0, 0, 0, .75));
+    // background: -webkit-gradient(linear, left top, left bottom, color-stop(0, transparent), to(rgba(0, 0, 0, .75)));
+    // background: linear-gradient(180deg, transparent 0, rgba(0, 0, 0, .75));
     min-width: 0;
     left: 0;
     top: 0;
     height: 100%;
     width: 100%;
     position: absolute
+    overflow: hidden
     z-index 10
 
   .image-container

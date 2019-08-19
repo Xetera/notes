@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Xetera/notes#readme",
   "dependencies": {
+    "@vuepress/plugin-nprogress": "^1.0.0-rc.1",
     "@vuepress/plugin-pwa": "^1.0.0-alpha.0",
     "@vuepress/plugin-register-components": "^1.0.0-alpha.0",
     "vue-foldable": "^1.0.0",

@@ -8,10 +8,6 @@
       <i class="fab fa-line adaptive contact-button" style="font-size: 28px"></i>
       xetera
     </div>
-
-    <div class="contact">
-      <i class="fas fa-globe-americas adaptive contact-button" style="font-size: 28px"></i> IRL
-    </div>
   </div>
 </template>
 
