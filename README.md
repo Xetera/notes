@@ -1,6 +1,6 @@
 # Notes
 
-This is where I keep all my notes! https://notes.hifumi.io
+This is where I keep all my notes! https://alisnotes.netlify.app/
 
 Built with [VuePress](https://vuepress.vuejs.org/) 
 
